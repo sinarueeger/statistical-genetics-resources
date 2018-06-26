@@ -8,5 +8,5 @@ There are three lists:
 - [Readings](statgen-reading.md), mostly research articles.
 - [Software](statgen-software.md) to perform statistical analyses on genetic data.
 
-If you would like to contribute to any of these lists, please make a pull request or file an [issue](issues/).
+If you would like to contribute to any of these lists, please make a pull request or file an [issue](https://github.com/sinarueeger/statistical-genetics-ressources/issues).
 
