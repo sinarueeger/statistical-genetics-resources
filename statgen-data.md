@@ -24,6 +24,10 @@ The statistical methods use either *individual data* or an aggregated form calle
 
 **C<sup>2</sup>.** Aggregated data form, also called *summary statistics*, listing sample size, effect allele frequency, effect size and its standard error. 
 
+## Create genetic insilico data
+
+(TBD)
+
 ## Data
 
 Below is a list of resources of genetic data, in summarised or individual form.
@@ -41,7 +45,7 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 
 ### GWAS summary statistic results
 
-- **GIANT**, a consortium focusing on anthropometric traits has [released](https://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium_data_files) all summary statistics of 15 large-scale meta GWASs. 
+- [**GIANT**](https://portals.broadinstitute.org/collaboration/giant/index.php/Main_Page), a consortium focusing on anthropometric traits has [released](https://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium_data_files) all summary statistics of 15 large-scale meta GWASs. 
 <!--http://megastroke.org/download.html-->
 - The [**Catalog of published GWAS studies**](https://www.genome.gov/gwastudies/) provides a curated list of all GWAS results. <!-- -->
 - [**UK Biobank results**](https://sites.google.com/broadinstitute.org/ukbbgwasresults/home?authuser=0): GWAS summary statistics from genotype imputed UK Biobank data, including 337'000 individuals and 2'419 phenotypes. Based on this, [**UKB phewas**](http://pheweb.sph.umich.edu:5000/) takes a variant id as input and returns the association results for the most relevant phenotypes. 
@@ -58,3 +62,5 @@ Some GWAS follow-up methods also output summary statistics that can be accessed.
 
 - [**MR-base**](http://www.mrbase.org/): a web application that displays the result of a systematically performed MR analyses on a number of traits, using over 1000 GWAS summary statistic results. [**MR-base PheWas**](http://phewas.mrbase.org) takes a variant id as input, and returns the traits with relevant MR results as output. 
 - [**LD-Hub**](http://ldsc.broadinstitute.org/ldhub/): a web application to look up pre-run LD score regression results.
+
+
