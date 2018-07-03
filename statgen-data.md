@@ -24,7 +24,7 @@ The statistical methods use either *individual data* or an aggregated form calle
 
 **C<sup>2</sup>.** Aggregated data form, also called *summary statistics*, listing sample size, effect allele frequency, effect size and its standard error. 
 
-## Create genetic insilico data
+## Genetic insilico data
 
 (TBD)
 
