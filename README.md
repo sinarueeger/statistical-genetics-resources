@@ -1,6 +1,6 @@
-# Ressources for Statistical Genetics
+# Resources for Statistical Genetics
 
-This repository lists ressources needed for statistical genetics and is mainly aimed for people starting in the field of statistical genetics. 
+This repository lists resources needed for statistical genetics and is mainly aimed for people starting in the field of statistical genetics. 
 
 There are three lists:
 
