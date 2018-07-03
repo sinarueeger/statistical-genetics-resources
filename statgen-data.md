@@ -54,7 +54,7 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 - [**GTEx**](http://www.gtexportal.org/): eQTL summary statistics from over 20 different tissues.
 - [**PhenoScanner**](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner): lookup of curated large-scale GWAS results, takes a variant id as input.
 - [**ExAC**](http://exac.broadinstitute.org/): Summary statistics (allele frequency) available through exome sequencing of 60'706 individuals (various disease-specific and population genetic studies, large-scale sequencing projects).
-- Table 1 in @pasaniuc-price-2017 lists resources.
+- Table 1 in [Pasaniuc & Price (2017)](https://www.nature.com/articles/nrg.2016.142) lists resources.
 
 ### Follow-up summary statistics
 
