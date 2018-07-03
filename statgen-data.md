@@ -1,18 +1,13 @@
 # Genomic data resources
 
-Below is a list of data resources used in statistical genetics.
-
-- paper pasaniuc > summaryise (https://www.nature.com/articles/nrg.2016.142)
-- summary statistics easier to share
-- "statgen", "dataset"
+<!-- Below is a list of data resources used in statistical genetics.
 //]: --- | UCSC | |
 [//]: --- | --------- |:----------------------------------:|
 [//]: --- | hg20 | Genome Reference Consortium GRCh38 |
 [//]: --- | hg19 | Genome Reference Consortium GRCh37 |
 [//]: --- | hg18 | NCBI Build 36 |
-
 - http://blog.kaggle.com/2017/09/11/how-can-i-find-a-dataset-on-kaggle/
-
+-->
 
 ## Types of data
 The statistical methods mentioned in the Section [before](#beyond-gwas) use either *individual data* or an aggregated form called *summary statistics*. A-C in Figure below illustrate the difference between individual and aggregated data in terms of information loss. Most importantly, because of privacy restrictions, the LD structure between markers cannot be retrieved anymore, once the data is aggregated and published, and thus has to be estimated from external data. 
