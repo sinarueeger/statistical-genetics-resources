@@ -1,15 +1,32 @@
 
-# Reading
+# Readings in Statistical Genetics
 
-## MR
-Bowden, Jack, George Davey Smith, Philip C Haycock, and StephenBurgess.2015. “Consistent estimation in Mendelian randomiza-tion with some invalid instruments using a weighted median estimator.”Genetic Epidemiology.
+## Reviews
 
-## Fine-mapping
-Hormozdiari, Farhad, Anthony Zhu, Gleb Kichaev, Chelsea J-TJu, Ayellet V Segrè, Jong Wha J Joo, Hyejung Won, et al.2017.“Widespread Allelic Heterogeneity in Complex Traits.”AmericanJournal of Human Genetics100(5). Elsevier:789–802.
+- [Nature reviews genetics](https://www.nature.com/nrg/)
+- ...
+
+## Mendelian randomisation
+
+- [Consistent estimation in Mendelian randomiza-tion with some invalid instruments using a weighted median estimator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4849733/); Jack Bowden, George Davey Smith, Philip C Haycock, Stephen Burgess (2015). Genetic Epidemiology.
+
+- [Widespread Allelic Heterogeneity in Complex Traits](https://www.ncbi.nlm.nih.gov/pubmed/28475861); Farhad Hormozdiari (2017). American Journal of Human Genetics. 
+ Farhad Hormozdiari
+, Anthony Zhu
+, Gleb Kichaev
+, Chelsea J.-T. Ju
+, Ayellet V. Segrè
+, Jong Wha J. Joo
+, Hyejung Won
+, Sriram Sankararaman
+, Bogdan Pasaniuc
+, Sagiv Shifman10,'Correspondence information about the author Sagiv ShifmanEmail the author Sagiv Shifman
+, Eleazar Eskin10,'Correspondence information about the author Eleazar Eskin
+
 
 ## Partitioning heritability
-Finucane, Hilary K, Brendan Bulik-Sullivan, Alexander Gusev, GosiaTrynka, Yakir Reshef, Po-Ru Loh, Verneri Anttila, et al.2015.“Partitioning heritability by functional annotation using genome-wide association summary statistics.”Nature Genetics47(11).Nature Publishing Group
 
+- [Partitioning heritability by functional annotation using genome-wide association summary statistics.](https://www.ncbi.nlm.nih.gov/pubmed/26414678); Hilary K Finucane, Brendan Bulik-Sullivan, Alexander Gusev, GosiaTrynka, Yakir Reshef, Po-Ru Loh, Verneri Anttila, *et al. * (2015). Nature Genetics. 
 
 ## GWAS
 Visscher, Peter M, Naomi R Wray, Qian Zhang, Pamela Sklar, MarkI Mccarthy, Matthew A Brown, and Jian Yang.2017. “10Years ofGWAS Discovery : Biology, Function, and Translation!Review.”The American Journal of Human Genetics101(1). ElsevierCompany.:5–22
