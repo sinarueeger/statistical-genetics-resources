@@ -94,3 +94,6 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 - [Nature Communications](https://www.nature.com/ncomms/)
 
 This list is not exhaustive. There are lots of other journals that also contain articles on statistical genetics, e.g. [Biostatistics](https://academic.oup.com/biostatistics). 
+
+*Contributors: Sina Rüeger*
+
