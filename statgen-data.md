@@ -1,5 +1,11 @@
 # Genomic data resources
 
+- [Types of data](#types-of-data)
+- [Genetic insilico data](#genetic-insilico-data)
+- [Data resources](#data-resources)
+
+
+
 <!-- Below is a list of data resources used in statistical genetics.
 //]: --- | UCSC | |
 [//]: --- | --------- |:----------------------------------:|
@@ -28,7 +34,7 @@ The statistical methods use either *individual data* or an aggregated form calle
 
 (TBD)
 
-## Data
+## Data Resources
 
 Below is a list of resources of genetic data, in summarised or individual form.
 
