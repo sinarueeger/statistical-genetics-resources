@@ -1,39 +1,12 @@
 
 # Readings in Statistical Genetics
 
-# Journals
-
-- [Nature genetics](https://www.nature.com/ng/)
-- [Nature reviews genetics](https://www.nature.com/nrg/)
-- [American Journal of Human Genetics](https://www.cell.com/ajhg/home)
-- [PLoS Genetics](http://journals.plos.org/plosgenetics/)
-- [PLoS Computational Biology](http://journals.plos.org/ploscompbiol/)
-- [Bioinformatics](https://academic.oup.com/bioinformatics)
-- [Genetic Epidemiology](https://onlinelibrary.wiley.com/journal/10982272)
-- [European Journal of Human Genetics](https://www.nature.com/ejhg/)
-- [bioRxiv](https://www.biorxiv.org/)
-- [BMC Genetics](https://bmcgenet.biomedcentral.com/)
-- [BMC Genomics](https://bmcgenomics.biomedcentral.com/)
-- [Genome Biology](https://genomebiology.biomedcentral.com/)
-- [Human Genetics](https://link.springer.com/journal/439)
-- [Nature](https://www.nature.com/nature/)
-- [Nature Communications](https://www.nature.com/ncomms/)
-
-This list is not exhaustive. There are lots of other journals that also contain articles on statistical genetics, e.g. [Biostatistics](https://academic.oup.com/biostatistics). 
-
-# How to keep up with new published research?
-
-- Subscribe to journal newsletters (sometimes called *e-alerts*). 
-- Create a [google scholar alert](https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en) with keywords of interest. 
-- Follow journals on social media, e.g. [bioRxiv](https://twitter.com/biorxivpreprint). 
-- Follow authors or consortia on social media, e.g. [PGC Consortium](https://twitter.com/PGCgenetics). 
-
 # Articles
 
 ## GWAS
 
 - A very general introduction to GWAS: [Genomewide Association Studies and Human Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422859/); John Hardy and Andrew Singleton. 2009.
-- [10 Years of GWAS Discovery: Biology, Function, and Translation](https://www.ncbi.nlm.nih.gov/pubmed/28686856), Peter M. Visscher, Naomi R. Wray, Qian Zhang, Pamela Sklar, Mark I. Mccarthy, Matthew A. Brown, and Jian Yang. 2017.
+- [10 Years of GWAS Discovery: Biology, Function, and Translation](https://www.ncbi.nlm.nih.gov/pubmed/28686856); Peter M. Visscher, Naomi R. Wray, Qian Zhang, Pamela Sklar, Mark I. Mccarthy, Matthew A. Brown, and Jian Yang. 2017.
 - [Genomics is failing on diversity](https://www.nature.com/news/genomics-is-failing-on-diversity-1.20759); Alice B. Popejoy and Stephanie M. Fullerton. 2016.
 - [Genome-wide association studies for complex traits: consensus, uncertainty and challenges](https://www.ncbi.nlm.nih.gov/pubmed/18398418); Mark I. McCarthy, Gonçalo R. Abecasis, Lon R. Cardon, David B. Goldstein,
 Julian Little, John P. A. Ioannidis and Joel N. Hirschhorn. 2008.
@@ -73,13 +46,13 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
  
 ## Mendelian randomisation
 
-- [Consistent estimation in Mendelian randomization with some invalid instruments using a weighted median estimator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4849733/); Jack Bowden, George Davey Smith, Philip C Haycock, Stephen Burgess (2015). Genetic Epidemiology.
+- [Consistent estimation in Mendelian randomization with some invalid instruments using a weighted median estimator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4849733/); Jack Bowden, George Davey Smith, Philip C Haycock, Stephen Burgess. 2015.
 
 
 ## Multi-trait analysis
 
 - [Distinguishing genetic correlation from causation across 52 diseases and complex traits](https://www.biorxiv.org/content/early/2018/04/17/205435); Luke J. O'Connor, Alkes L. Price. 2018.
-- [LD Score regression distinguishes confounding from polygenicity in genome-wide association studies.](https://www.ncbi.nlm.nih.gov/pubmed/25642630){#ldsc}; Brendan K. Bulik-Sullivan, Po-Ru Loh, Hilary K. Finucane, Stephan Ripke, Jian Yang, Nick Patterson, Mark J. Daly, Alkes L. Price, Benjamin M. Neale. 2015.
+- <a name="ldsc"></a>[LD Score regression distinguishes confounding from polygenicity in genome-wide association studies.](https://www.ncbi.nlm.nih.gov/pubmed/25642630); Brendan K. Bulik-Sullivan, Po-Ru Loh, Hilary K. Finucane, Stephan Ripke, Jian Yang, Nick Patterson, Mark J. Daly, Alkes L. Price, Benjamin M. Neale. 2015.
 
 ## Pleiotropy
 
@@ -89,3 +62,31 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 - [The druggable genome and support for target identification and validation in drug development](https://www.ncbi.nlm.nih.gov/pubmed/28356508); Chris Finan, Anna Gaulton, Felix A. Kruger, R. Thomas Lumbers, Tina Shah, Jorgen Engmann, Luana Galver, *et al.*. 2017.
 
+
+# How to keep up with new published research?
+
+- Subscribe to journal newsletters (sometimes called *e-alerts*). 
+- Create a [google scholar alert](https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en) with keywords of interest. 
+- Follow journals on social media, e.g. [bioRxiv](https://twitter.com/biorxivpreprint). 
+- Follow authors or consortia on social media, e.g. [PGC Consortium](https://twitter.com/PGCgenetics). 
+
+
+# Journals
+
+- [Nature genetics](https://www.nature.com/ng/)
+- [Nature reviews genetics](https://www.nature.com/nrg/)
+- [American Journal of Human Genetics](https://www.cell.com/ajhg/home)
+- [PLoS Genetics](http://journals.plos.org/plosgenetics/)
+- [PLoS Computational Biology](http://journals.plos.org/ploscompbiol/)
+- [Bioinformatics](https://academic.oup.com/bioinformatics)
+- [Genetic Epidemiology](https://onlinelibrary.wiley.com/journal/10982272)
+- [European Journal of Human Genetics](https://www.nature.com/ejhg/)
+- [bioRxiv](https://www.biorxiv.org/)
+- [BMC Genetics](https://bmcgenet.biomedcentral.com/)
+- [BMC Genomics](https://bmcgenomics.biomedcentral.com/)
+- [Genome Biology](https://genomebiology.biomedcentral.com/)
+- [Human Genetics](https://link.springer.com/journal/439)
+- [Nature](https://www.nature.com/nature/)
+- [Nature Communications](https://www.nature.com/ncomms/)
+
+This list is not exhaustive. There are lots of other journals that also contain articles on statistical genetics, e.g. [Biostatistics](https://academic.oup.com/biostatistics). 
