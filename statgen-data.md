@@ -64,3 +64,4 @@ Some GWAS follow-up methods also output summary statistics that can be accessed.
 - [**LD-Hub**](http://ldsc.broadinstitute.org/ldhub/): a web application to look up pre-run LD score regression results.
 
 
+*Contributors: Sina Rüeger*
