@@ -66,6 +66,9 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 - [The druggable genome and support for target identification and validation in drug development](https://www.ncbi.nlm.nih.gov/pubmed/28356508); Chris Finan, Anna Gaulton, Felix A. Kruger, R. Thomas Lumbers, Tina Shah, Jorgen Engmann, Luana Galver, *et al.*. 2017.
 
+## Other reading lists
+
+Checkout the [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers).
 
 ## How to keep up with new published research?<a name="keep"></a>
 
