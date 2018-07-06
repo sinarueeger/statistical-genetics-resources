@@ -33,6 +33,14 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 - [Genetic architecture: the shape of the genetic contribution to human traits and disease.](https://www.ncbi.nlm.nih.gov/pubmed/29225335); Nicholas J. Timpson, Celia M.T. Greenwood, Nicole Soranzo, Daniel J. Lawson, and J. Brent Richards. 2017.
 - [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model.](https://www.ncbi.nlm.nih.gov/pubmed/29906445); Naomi R. Wray, Cisca Wijmenga, Patrick F. Sullivan, Jian Yang, Peter M. Visscher. 2018.
 
+### Integration of gene-expression and GWAS data 
+
+- [Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets](https://www.nature.com/articles/ng.3538); Zhihong Zhu, Futao Zhang, Han Hu, Andrew Bakshi, Matthew R Robinson, Joseph E Powell, Grant W Montgomery, Michael E Goddard, Naomi R Wray, Peter M Visscher & Jian Yang. 2016.
+- [Estimating the causal tissues for complex traits and diseases](https://www.nature.com/articles/ng.3981); Halit Ongen, Andrew A Brown, Olivier Delaneau, Nikolaos I Panousis, Alexandra C Nica, GTEx Consortium & Emmanouil T Dermitzakis. 2017.
+- [Large-Scale Identification of Common Trait and Disease Variants Affecting Gene Expression](https://www.cell.com/ajhg/fulltext/S0002-9297(17)30161-1); Mads Engel Hauberg, Wen Zhang, Claudia Giambartolomei, Oscar Franzén, David L. Morris, Timothy J. Vyse, Arno Ruusalepp, Pamela Sklar, Eric E. Schadt, Johan L.M. Björkegren, Panos Roussos. 2017. 
+- [Colocalization of GWAS and eQTL Signals Detects Target Genes](https://www.cell.com/ajhg/fulltext/S0002-9297(16)30439-6); Farhad Hormozdiari, Martijn van de Bunt, Ayellet V. Segrè, Xiao Li, Jong Wha J. Joo, Michael Bilow, Jae Hoon Sul, Sriram Sankararaman, Bogdan Pasaniuc, Eleazar Eskin. 2016.
+- [Integrating Gene Expression with Summary Association Statistics to Identify Genes Associated with 30 Complex Traits](https://www.cell.com/ajhg/fulltext/S0002-9297(17)30032-0); Nicholas Mancuso, Huwenbo Shi, Pagé Goddard, Gleb Kichaev, Alexander Gusev, Bogdan Pasaniuc. 2017. 
+
 ### Heritability
 
 - [Explaining additional genetic variation in complex traits](https://www.ncbi.nlm.nih.gov/pubmed/24629526); Matthew R. Robinson, Naomi R. Wray, and Peter M. Visscher. 2014.
@@ -46,6 +54,7 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 - [Widespread Allelic Heterogeneity in Complex Traits](https://www.ncbi.nlm.nih.gov/pubmed/28475861); Farhad Hormozdiari, Anthony Zhu, Gleb Kichaev, Chelsea J.-T. Ju, Ayellet V. Segrè, Jong Wha J. Joo, Hyejung Won, Sriram Sankararaman, Bogdan Pasaniuc, Sagiv Shifman, Eleazar Eskin. 2017.
  - [Common SNPs explain a large proportion of the heritability for human height](https://www.ncbi.nlm.nih.gov/pubmed/20562875); Jian Yang, Beben Benyamin, Brian P. McEvoy, Scott Gordon, Anjali K. Henders, *et al.*. 2010.
+ 
  
  
 ### Mendelian randomisation
@@ -98,5 +107,5 @@ Checkout the [The Leek group guide to genomics papers](https://github.com/jtleek
 
 This list is not exhaustive. There are lots of other journals that also contain articles on statistical genetics, e.g. [Biostatistics](https://academic.oup.com/biostatistics). 
 
-*Contributors: Sina Rüeger*
+*Contributors: Sina Rüeger, Eleonora Porcu.*
 
