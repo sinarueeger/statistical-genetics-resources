@@ -24,7 +24,9 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 ### GWAS examples
 
-- 
+- [Defining the role of common variation in the genomic and biological architecture of adult human height](https://www.nature.com/articles/ng.3097); Andrew R. Wood, Tonu Esko, ..., Timothy M. Frayling. 2014.
+
+### GWAS Imputation
 
 
 ### Genetic architecture
@@ -32,6 +34,8 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 - [From gene expression to disease risk](https://www.ncbi.nlm.nih.gov/pubmed/18443581); Emmanouil T. Dermitzakis. 2008.
 - [Genetic architecture: the shape of the genetic contribution to human traits and disease.](https://www.ncbi.nlm.nih.gov/pubmed/29225335); Nicholas J. Timpson, Celia M.T. Greenwood, Nicole Soranzo, Daniel J. Lawson, and J. Brent Richards. 2017.
 - [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model.](https://www.ncbi.nlm.nih.gov/pubmed/29906445); Naomi R. Wray, Cisca Wijmenga, Patrick F. Sullivan, Jian Yang, Peter M. Visscher. 2018.
+
+### Pathway analysis
 
 ### Integration of gene-expression and GWAS data 
 
@@ -111,6 +115,12 @@ The Broad Institute has also some [recordings](https://sites.google.com/broadins
 - [Nature Communications](https://www.nature.com/ncomms/)
 
 This list is not exhaustive. There are lots of other journals that also contain articles on statistical genetics, e.g. [Biostatistics](https://academic.oup.com/biostatistics). 
+
+## Access to PDFs
+
+Some journals follow an open access approach, while for other journals you would need to pay for articles. 
+
+If you are studying at a University in Switzerland, most articles will be free though, as the University libraries are already paying the journal.  
 
 *Contributors: Sina Rüeger, Eleonora Porcu.*
 
