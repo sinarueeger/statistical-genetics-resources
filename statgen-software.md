@@ -1,6 +1,7 @@
 
-# R
-https://cran.r-project.org/web/views/Genetics.html
-https://rdrr.io/search?q=genomics
+TBD
 
-# Command-line tools
+# R
+- https://cran.r-project.org/web/views/Genetics.html
+- https://rdrr.io/search?q=genomics
+
