@@ -37,6 +37,8 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 ### Pathway analysis
 
+- [Fast and Rigorous Computation of Gene and Pathway Scores from SNP-Based Summary Statistics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4726509/); David Lamparter, Daniel Marbach, Rico Rueedi, Zoltán Kutalik, Sven Bergmann. 2016.
+
 ### Integration of gene-expression and GWAS data 
 
 - [Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets](https://www.nature.com/articles/ng.3538); Zhihong Zhu, Futao Zhang, Han Hu, Andrew Bakshi, Matthew R Robinson, Joseph E Powell, Grant W Montgomery, Michael E Goddard, Naomi R Wray, Peter M Visscher & Jian Yang. 2016.
