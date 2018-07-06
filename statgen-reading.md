@@ -75,9 +75,14 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 - [The druggable genome and support for target identification and validation in drug development](https://www.ncbi.nlm.nih.gov/pubmed/28356508); Chris Finan, Anna Gaulton, Felix A. Kruger, R. Thomas Lumbers, Tina Shah, Jorgen Engmann, Luana Galver, *et al.*. 2017.
 
-## Other reading lists
+## Other reading lists and resources
 
 Checkout the [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers).
+
+[This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online journalclub from the Broad Institute is not active anymore, but has some nice recordings.
+
+The Broad Institute has also some [recordings](https://sites.google.com/broadinstitute.com/onlinejournalclub/other-genetic-presentations?authuser=0) from the "Medical Population Genetics Program".
+
 
 ## How to keep up with new published research?<a name="keep"></a>
 
@@ -85,7 +90,7 @@ Checkout the [The Leek group guide to genomics papers](https://github.com/jtleek
 - Create a [google scholar alert](https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en) with keywords of interest. 
 - Follow journals on social media, e.g. [bioRxiv](https://twitter.com/biorxivpreprint). 
 - Follow authors or consortia on social media, e.g. [PGC Consortium](https://twitter.com/PGCgenetics). 
-
+- Join the mailing list of a journal club, e.g. the [this one](http://cnsgenomics.com/journal_club.html).
 
 ## Journals<a name="journals"></a>
 
