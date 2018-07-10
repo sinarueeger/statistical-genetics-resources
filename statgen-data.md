@@ -42,10 +42,10 @@ Summary stats are public, while individual data can mostly only be accessed by s
 
 ### Individual data
 
-- [**HapMap Project**](https://www.sanger.ac.uk/resources/downloads/human/hapmap3.html) phase III includes sequencing data from 1'397 individuals, 11 ancestry groups :arrow_right: his database is [not maintained](https://www.ncbi.nlm.nih.gov/variation/news/NCBI_retiring_HapMap/) anymore. <!-- phase one 270 individuals -->
-- [**1000 Genomes Project**](http://www.internationalgenome.org/): phase III contains sequencing data from 2'504 individuals, from 26 populations, for 84.4 million variants markers :arrow_right: public data.
-- [**UK10K**](http://www.uk10k.org/): sequencing data from 4000 individuals of European/British ancestry :arrow_right: restricted access. 
-- [**UK Biobank**](http://www.ukbiobank.ac.uk/): genotype and genotype imputed data for 500K individuals :arrow_right: restricted access.
+- [**HapMap Project**](https://www.sanger.ac.uk/resources/downloads/human/hapmap3.html) phase III includes sequencing data from 1'397 individuals, 11 ancestry groups → his database is [not maintained](https://www.ncbi.nlm.nih.gov/variation/news/NCBI_retiring_HapMap/) anymore. <!-- phase one 270 individuals -->
+- [**1000 Genomes Project**](http://www.internationalgenome.org/): phase III contains sequencing data from 2'504 individuals, from 26 populations, for 84.4 million variants markers → public data.
+- [**UK10K**](http://www.uk10k.org/): sequencing data from 4000 individuals of European/British ancestry → restricted access. 
+- [**UK Biobank**](http://www.ukbiobank.ac.uk/): genotype and genotype imputed data for 500K individuals → restricted access.
 
 Currently, 1000 Genomes Project and UK10K data are often used as **reference panels** for imputation. 
 
