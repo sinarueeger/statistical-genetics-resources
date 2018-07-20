@@ -69,8 +69,8 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 Very nice overview of MR and its extensions.
 - [Mendelian Randomization Analysis With Multiple Genetic Variants Using Summarized Data](https://doi.org/10.1002/gepi.21758)
 MR using summarised data, introduces the various MR methods like IVW, likelihood-based and talks about weak instruments and winners curse. Interesting things to know at the start. 
-[Recent Developments in Mendelian Randomization Studies](https://doi.org/10.1007/s40471-017-0128-6): *A very well rounded review on MR, more detailed than the first listed article, recent (late 2017) and discusses applications, limitations, and different extensions of MR.*
-- [Network Mendelian randomization: using genetic variants as instrumental variables to investigate mediation in causal pathways](https://doi.org/10.1093/ije/dyu176]: *Main paper to understand mediation and direct and indirect effects, and how they fit in MR networking.*
+- [Recent Developments in Mendelian Randomization Studies](https://doi.org/10.1007/s40471-017-0128-6): *A very well rounded review on MR, more detailed than the first listed article, recent (late 2017) and discusses applications, limitations, and different extensions of MR.*
+- [Network Mendelian randomization: using genetic variants as instrumental variables to investigate mediation in causal pathways](https://doi.org/10.1093/ije/dyu176): *Main paper to understand mediation and direct and indirect effects, and how they fit in MR networking.*
 - [Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression](https://doi.org/10.1093/ije/dyv080): *MR-Egger Regression and how it deals with pleiotropy and invalid IV.*
 
 <!--- - [Consistent estimation in Mendelian randomization with some invalid instruments using a weighted median estimator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4849733/); Jack Bowden, George Davey Smith, Philip C Haycock, Stephen Burgess. 2015.-->
