@@ -35,6 +35,24 @@ TBD
 ### Getting started
 - A [tutorial](http://www.stat-gen.org/tut/tut_intro.html) for implementing a GWAS in R by the [Foulkes Lab](http://www.stat-gen.org/about.html).
 - [Task view](https://cran.r-project.org/web/views/Genetics.html) on CRAN.
-- R-packages that deal with [genetics](https://rdrr.io/search?q=genetics) or [genomics](https://rdrr.io/search?q=genomics]. 
+- R-packages that deal with [genetics](https://rdrr.io/search?q=genetics) or [genomics](https://rdrr.io/search?q=genomics). 
 
-## Packages
+### Blogposts
+
+- [Crafting Manhattan plots](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html) by [Yan Holtz](https://github.com/holtzy/) for the [R graph gallery](https://www.r-graph-gallery.com/). 
+
+
+
+
+### rOpenSci packages
+- [biomartr](https://github.com/ropensci/biomartr) + [tutorials](https://github.com/ropensci/biomartr#tutorials).
+
+### Bioconductor packages 
+- [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html) + [user guide](https://bioconductor.org/packages/release/bioc/vignettes/biomaRt/inst/doc/biomaRt.html).
+
+### CRAN packages
+- [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
+- [manhattanly](https://moderndata.plot.ly/manhattanly-r-package-for-interactive-manhattan-plots/) for interactive Manhattan plots. 
+- [qqman](https://cran.r-project.org/web/packages/qqman/index.html): for Manhattan plots (see DYI solution in [here](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html)).
+- [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
+
