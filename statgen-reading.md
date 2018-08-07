@@ -133,5 +133,10 @@ Some journals follow an open access approach, while for other journals you would
 
 If you are studying at a University in Switzerland, most articles will be free though, as the University libraries are already paying the journal.  
 
-*Contributors: Sina Rüeger, Eleonora Porcu, Emilie Ha, Liza Darrous.*
+## Contributors
+
+- Sina Rüeger
+- Eleonora Porcu
+- Emilie Ha
+- Liza Darrous
 
