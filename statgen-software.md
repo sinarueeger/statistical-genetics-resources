@@ -4,19 +4,11 @@
 
 ## Sorted by task
 
-|  Tool 	|   Data quality control,	|   Estimate LD 	|  Association tests  	|  Heritability 	|
-|   	|   	|   	|   	|   	|
-|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-
-| Tool  | Data quality control, | Estimate LD  | Association tests  | Heritability  |
-|   | handling and transformation  |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Tool 	| Data Quality Control,    	| LD estimation 	| Association tests 	| Heritability 	|
+|------	|--------------------------	|---------------	|-------------------	|--------------	|
+|      	| handling, transformation 	|               	|                   	|              	|
+|      	|                          	|               	|                   	|              	|
+|      	|                          	|               	|                   	|              	|
 
 There are 
 - [Command line tools](#command-line-tools)
