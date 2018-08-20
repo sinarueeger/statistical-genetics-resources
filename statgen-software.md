@@ -11,31 +11,43 @@
 
 ## Command line tools
 
-- [PLINK](https://www.cog-genomics.org/plink/2.0/): 
-  - 🛠️
-  - 🔺
-  - 📷 
-  - ⚖️
-  - 📏 
+- [**PLINK**](https://www.cog-genomics.org/plink/2.0/): An all-in-one tool for genotype data. 
+  - 🛠️ QC
+  - 🔺 LD
+  - 📷 PCA
+  - ⚖️ Testing
+  - 📏 Heritability
+  - Input file formats: plink, bgen, gen, vcf
   
-### Heritability
+- [**GCTA**](https://cnsgenomics.com/software/gcta/#Overview): heritability
+  - (🛠️) QC
+  - 📷 PCA
+  - 📏 Heritability
+  - Input file formats: binary plink files
+  
+- [**QCTOOL**](http://www.well.ox.ac.uk/~gav/qctool_v2/): Data handling, converting file formats, combining datasets
+  - 🛠️ QC
+  - 📷 PCA
+  - Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
+  
+- [**QUICKTEST**](https://wp.unil.ch/sgg/quicktest/)
+  - ⚖️ Testing
+  - Input file formats: plink, bgen, gen, vcf
 
-- [GCTA](https://cnsgenomics.com/software/gcta/#Overview)
+- [**SNPTEST**](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
+  - ⚖️ Testing
+  
+- Imputation software
 
-### Data handling
+- [**emeraLD**](https://github.com/statgen/emeraLD)
+  - 🔺 LD
+  - Input file formats: VCF
+  
+- [**LDSTORE**](http://www.christianbenner.com/#ldstore)
+  - 🔺 LD
+  - Input file formats: bgen, binary plink (no vcf, meaning, reference panels in vcf format have to be transformed first into a bgen file with [QCTOOL](http://www.well.ox.ac.uk/~gav/qctool_v2/))
 
-- [QCTOOL](http://www.well.ox.ac.uk/~gav/qctool_v2/)
-
-### Association tests
-
-- [QUICKTEST](https://wp.unil.ch/sgg/quicktest/)
-- [SNPTEST](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
-
-### Imputation
-
-
-
-## R
+## R packages
 
 ### Getting started
 - A [tutorial](http://www.stat-gen.org/tut/tut_intro.html) for implementing a GWAS in R by the [Foulkes Lab](http://www.stat-gen.org/about.html).
@@ -55,7 +67,6 @@
 - [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html) + [user guide](https://bioconductor.org/packages/release/bioc/vignettes/biomaRt/inst/doc/biomaRt.html).
 
 ### CRAN packages
-- [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
 - [manhattanly](https://moderndata.plot.ly/manhattanly-r-package-for-interactive-manhattan-plots/) for interactive Manhattan plots. 
 - [qqman](https://cran.r-project.org/web/packages/qqman/index.html): for Manhattan plots (see DYI solution in [here](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html)).
 - [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
