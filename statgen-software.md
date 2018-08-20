@@ -1,11 +1,20 @@
 
-# Statistical Genetics Software
+# Statistical Genetics Software (*in progress*)
 
+
+## Sorted by task
+
+| Tool  | Data quality control, | Estimate LD  | Association tests  | Heritability  |
+|   | handling and transformation  |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+There are 
 - [Command line tools](#command-line-tools)
 - [R](#r)
 
-
-TBD
 
 ## Command line tools
 
@@ -42,10 +51,9 @@ TBD
 - [Crafting Manhattan plots](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html) by [Yan Holtz](https://github.com/holtzy/) for the [R graph gallery](https://www.r-graph-gallery.com/). 
 
 
-
-
 ### rOpenSci packages
 - [biomartr](https://github.com/ropensci/biomartr) + [tutorials](https://github.com/ropensci/biomartr#tutorials).
+- [rsnps](https://github.com/ropensci/rsnps) + [tutorial](https://github.com/ropensci/rsnps/blob/master/vignettes/rsnps_vignette.Rmd).
 
 ### Bioconductor packages 
 - [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html) + [user guide](https://bioconductor.org/packages/release/bioc/vignettes/biomaRt/inst/doc/biomaRt.html).
