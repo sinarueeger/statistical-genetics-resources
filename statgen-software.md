@@ -4,11 +4,11 @@
 
 ## Sorted by task
 
-| Tool 	| Data Quality Control,    	| LD estimation 	| Association tests 	| Heritability 	|
-|------	|--------------------------	|---------------	|-------------------	|--------------	|
-|      	| handling, transformation 	|               	|                   	|              	|
-|      	|                          	|               	|                   	|              	|
-|      	|                          	|               	|                   	|              	|
+| Tool 	                                            | Data quality control,    	| LD estimation 	| Association tests 	| Heritability 	|
+|      	                                            | handling, transformation 	|               	|                   	|              	|
+|---------------------------------------------------|--------------------------	|---------------	|-------------------	|--------------	|
+| [PLINK](https://www.cog-genomics.org/plink/2.0/)  |                          	|               	|                   	|              	|
+|      	                                            |                          	|               	|                   	|              	|
 
 There are 
 - [Command line tools](#command-line-tools)
