@@ -4,6 +4,12 @@
 
 ## Sorted by task
 
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+
 | Tool  | Data quality control, | Estimate LD  | Association tests  | Heritability  |
 |   | handling and transformation  |   |   |   |
 |---|---|---|---|---|
