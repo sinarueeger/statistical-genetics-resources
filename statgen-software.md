@@ -1,9 +1,7 @@
 
 # Statistical Genetics Software (*in progress*)
 
-There are 
-- [Command line tools](#command-line-tools)
-- [R](#r)
+## Categories
 
 - 🛠️ Data quality control, handling, transformation (the tools 🛠️ representing tooling)
 - 🔺 Linkage disequilibrium estimation (the tirangle 🔺 representing the lower triangle of the distance matrix)
@@ -13,8 +11,13 @@ There are
 
 ## Command line tools
 
-- [PLINK](https://www.cog-genomics.org/plink/2.0/)
-
+- [PLINK](https://www.cog-genomics.org/plink/2.0/): 
+  - 🛠️
+  - 🔺
+  - 📷 
+  - ⚖️
+  - 📏 
+  
 ### Heritability
 
 - [GCTA](https://cnsgenomics.com/software/gcta/#Overview)
