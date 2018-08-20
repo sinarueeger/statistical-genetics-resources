@@ -1,23 +1,17 @@
 
 # Statistical Genetics Software (*in progress*)
 
-
-## Sorted by task
-
-| Tool 	                                            | Data quality control,    	| LD estimation 	| Association tests 	| Heritability 	|
-|      	                                            | handling, transformation 	|               	|                   	|              	|
-|---------------------------------------------------|--------------------------	|---------------	|-------------------	|--------------	|
-| [PLINK](https://www.cog-genomics.org/plink/2.0/)  |                          	|               	|                   	|              	|
-|      	                                            |                          	|               	|                   	|              	|
-
 There are 
 - [Command line tools](#command-line-tools)
 - [R](#r)
 
+- 🛠️ Data quality control, handling, transformation (the tools 🛠️ representing tooling)
+- 🔺 Linkage disequilibrium estimation (the tirangle 🔺 representing the lower triangle of the distance matrix)
+- 📷 Principal component computation (the camera 📷 as a representation of an approximation of reality)
+- ⚖️ Association tests (the scale ⚖️ representing measuring and weighing)
+- 📏 Heritability estimation (the ruler 📏 representing measuring heritability)
 
 ## Command line tools
-
-### All-in-one tool
 
 - [PLINK](https://www.cog-genomics.org/plink/2.0/)
 
