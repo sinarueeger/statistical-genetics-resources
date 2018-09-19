@@ -54,7 +54,7 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 - [**GIANT**](https://portals.broadinstitute.org/collaboration/giant/index.php/Main_Page), a consortium focusing on anthropometric traits has [released](https://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium_data_files) all summary statistics of 15 large-scale meta GWASs. 
 <!--http://megastroke.org/download.html-->
 - The [**Catalog of published GWAS studies**](https://www.genome.gov/gwastudies/) provides a curated list of all GWAS results. <!-- -->
-- [**UK Biobank results**](https://sites.google.com/broadinstitute.org/ukbbgwasresults/home?authuser=0): GWAS summary statistics from genotype imputed UK Biobank data, including 337'000 individuals and 2'419 phenotypes. Based on this, [**UKB phewas**](http://pheweb.sph.umich.edu:5000/) takes a variant id as input and returns the association results for the most relevant phenotypes. 
+- [**UK Biobank results**](https://docs.google.com/spreadsheets/d/1kvPoupSzsSFBNSztMzl04xMoSC3Kcx3CrjVf4yBmESU/edit?ts=5b5f17db#gid=227859291): GWAS summary statistics from genotype imputed UK Biobank data, including 337'000 individuals and 2'419 phenotypes. Based on this, [**UKB phewas**](http://pheweb.sph.umich.edu:5000/) takes a variant id as input and returns the association results for the most relevant phenotypes. 
 - [**LD-Hub**](http://ldsc.broadinstitute.org/ldhub/): a centralised database of summary-level GWAS results. 
 - [**eQTL**](https://genenetwork.nl/bloodeqtlbrowser/): Cis- and trans-eQTLs results in whole blood samples, limited to FDR=0.5.
 - [**GTEx**](http://www.gtexportal.org/): eQTL summary statistics from over 20 different tissues.
