@@ -3,11 +3,11 @@
 
 ## Categories
 
-- 🛠️ Data quality control, handling, transformation (the tools 🛠️ representing tooling)
-- 🔺 Linkage disequilibrium estimation (the tirangle 🔺 representing the lower triangle of the distance matrix)
-- 📷 Principal component computation (the camera 📷 as a representation of an approximation of reality)
-- ⚖️ Association tests (the scale ⚖️ representing measuring and weighing)
-- 📏 Heritability estimation (the ruler 📏 representing measuring heritability)
+- 🛠️ Data quality control, handling, transformation (🛠️ representing tooling)
+- 🔺 Linkage disequilibrium estimation (🔺 representing the lower triangle of the distance matrix)
+- 📷 Principal component computation (📷 as a representation of an approximation of reality)
+- ⚖️ Association tests (⚖️ representing measuring and weighing)
+- 📏 Heritability estimation (📏 representing measuring heritability)
 
 ## Command line tools
 
@@ -64,6 +64,7 @@
 - [rsnps](https://github.com/ropensci/rsnps) + [tutorial](https://github.com/ropensci/rsnps/blob/master/vignettes/rsnps_vignette.Rmd).
 
 ### Bioconductor packages 
+- [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software)
 - [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html) + [user guide](https://bioconductor.org/packages/release/bioc/vignettes/biomaRt/inst/doc/biomaRt.html).
 
 ### CRAN packages
