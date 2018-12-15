@@ -50,6 +50,7 @@
 ## Webservers
 
 [FUMA GWAS](http://fuma.ctglab.nl/): Functional Mapping and Annotation of Genome-Wide Association Studies. Takes summary statistics as input. 
+[GWASpro](https://bioinfo.noble.org/GWASPRO/): *to be tested*. 
 
 ## R packages
 
