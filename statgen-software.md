@@ -53,6 +53,8 @@
 
 [GWASpro](https://bioinfo.noble.org/GWASPRO/): *to be tested*. 
 
+[locuscompare](http://locuscompare.com/): comparison of EQTL and GWAS summary stats (using rsid and p-values).
+
 ## R packages
 
 ### Getting started
