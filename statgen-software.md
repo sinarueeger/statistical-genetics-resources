@@ -8,6 +8,7 @@
 - 📷 Principal component computation (📷 as a representation of an approximation of reality)
 - ⚖️ Association tests (⚖️ representing measuring and weighing)
 - 📏 Heritability estimation (📏 representing measuring heritability)
+- 🏢🏢🏢 Meta-analysis
 
 ## Command line tools
 
@@ -46,6 +47,9 @@
 - [**LDSTORE**](http://www.christianbenner.com/#ldstore)
   - 🔺 LD
   - Input file formats: bgen, binary plink (no vcf, meaning, reference panels in vcf format have to be transformed first into a bgen file with [QCTOOL](http://www.well.ox.ac.uk/~gav/qctool_v2/))
+
+- [**Multivariate GWAMA**](https://github.com/baselmans/multivariate_GWAMA)
+  - 🏢 Meta-analysis of (unknown) overlapping samples
 
 ## Webservers
 
