@@ -51,6 +51,10 @@
 - [**Multivariate GWAMA**](https://github.com/baselmans/multivariate_GWAMA)
   - 🏢 Meta-analysis of (unknown) overlapping samples
 
+## Misc
+
+- https://openmendel.github.io/ (statistical genetic analysis tool in Julia)
+
 ## Webservers
 
 [FUMA GWAS](http://fuma.ctglab.nl/): Functional Mapping and Annotation of Genome-Wide Association Studies. Takes summary statistics as input. 
