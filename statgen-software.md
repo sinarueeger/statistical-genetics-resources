@@ -54,6 +54,8 @@
 ## Misc
 
 - https://openmendel.github.io/ (statistical genetic analysis tool in Julia)
+- https://hail.is/ (genomic data analysis tool based on Python)
+- https://ritchielab.org/software/plato-download (organising, QC and analysis of genetic data)
 
 ## Webservers
 
