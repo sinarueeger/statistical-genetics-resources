@@ -51,7 +51,7 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 
 ### GWAS summary statistic results
 
-- [**GIANT**](https://portals.broadinstitute.org/collaboration/giant/index.php/Main_Page), a consortium focusing on anthropometric traits has [released](https://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium_data_files) all summary statistics of 15 large-scale meta GWASs. 
+- [**GWAS Atlas**](http://atlas.ctglab.nl): Comprehensive GWAS catalogue with possibility to compare multiple GWASs. 
 <!--http://megastroke.org/download.html-->
 - The [**Catalog of published GWAS studies**](https://www.genome.gov/gwastudies/) provides a curated list of all GWAS results. <!-- -->
 - [**UK Biobank results**](https://docs.google.com/spreadsheets/d/1kvPoupSzsSFBNSztMzl04xMoSC3Kcx3CrjVf4yBmESU/edit?ts=5b5f17db#gid=227859291): GWAS summary statistics from genotype imputed UK Biobank data, including 337'000 individuals and 2'419 phenotypes. Based on this, [**UKB phewas**](http://pheweb.sph.umich.edu:5000/) takes a variant id as input and returns the association results for the most relevant phenotypes. 
