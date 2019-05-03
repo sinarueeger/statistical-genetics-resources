@@ -31,6 +31,9 @@
   - 📷 PCA
   - Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
   
+- [**BEDTOOLS**]()
+  - [Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
+  
 - [**QUICKTEST**](https://wp.unil.ch/sgg/quicktest/)
   - ⚖️ Testing
   - Input file formats: plink, bgen, gen, vcf
