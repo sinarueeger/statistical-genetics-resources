@@ -9,6 +9,7 @@ There are three lists:
 - Available [genetic data](statgen-data.md).
 - [Readings](statgen-reading.md), mostly research articles.
 - [Software](statgen-software.md) to perform statistical analyses on genetic data.
+- Learning material: [H3ABioNet GWAS Lecture Series 2018](https://www.youtube.com/playlist?list=PLcQ0XMykNhCQJPz0amnbz9BPM4Bu0Nkgf)
 
 
 I have started this collection while working on [my PhD thesis](https://drive.switch.ch/index.php/s/FpWZlbw4Rfq20le) and hope it can be extended continuously.
