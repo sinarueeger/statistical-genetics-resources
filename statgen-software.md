@@ -55,6 +55,7 @@
   - 🏢 Meta-analysis of (unknown) overlapping samples
 
 - http://dougspeed.com/sumher/ and http://dougspeed.com/ldak/ (see also http://dougspeed.com/heritability-model/)
+- [FINEMAP](http://www.christianbenner.com/): [finemap howto](https://sinarueeger.github.io/post/finemap-howto/)
 
 ## Misc
 
