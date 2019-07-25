@@ -54,6 +54,8 @@
 - [**Multivariate GWAMA**](https://github.com/baselmans/multivariate_GWAMA)
   - 🏢 Meta-analysis of (unknown) overlapping samples
 
+- http://dougspeed.com/sumher/ and http://dougspeed.com/ldak/ (see also http://dougspeed.com/heritability-model/)
+
 ## Misc
 
 - https://openmendel.github.io/ (statistical genetic analysis tool in Julia)
