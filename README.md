@@ -13,6 +13,8 @@ There are three lists:
   - [H3ABioNet GWAS Lecture Series 2018](https://www.youtube.com/playlist?list=PLcQ0XMykNhCQJPz0amnbz9BPM4Bu0Nkgf).
   - [Lectures at the Broad Institute](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), for example the one by [Hilary Finucane](https://www.youtube.com/watch?v=mivyklWDtBI).
   - [GINGER](https://ginger.sph.harvard.edu/): education program for participants in East and South Africa.
+  - The Broad Institute has some [recordings](https://sites.google.com/broadinstitute.com/onlinejournalclub/other-genetic-presentations?authuser=0) from the "Medical Population Genetics Program".
+
 
 I have started this collection while working on [my PhD thesis](https://drive.switch.ch/index.php/s/FpWZlbw4Rfq20le) and hope it can be extended continuously.
 
