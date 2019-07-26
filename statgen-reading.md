@@ -123,13 +123,7 @@ Checkout the [The Leek group guide to genomics papers](https://github.com/jtleek
 - [Nature](https://www.nature.com/nature/)
 - [Nature Communications](https://www.nature.com/ncomms/)
 
-This list is not exhaustive. There are lots of other journals that also contain articles on statistical genetics, e.g. [Biostatistics](https://academic.oup.com/biostatistics). 
-
-## Access to PDFs
-
-Some journals follow an open access approach, while for other journals you would need to pay for articles. 
-
-If you are studying at a University in Switzerland, most articles will be free though, as the University libraries are already paying the journal.  
+This list is not exhaustive. There are lots of other journals that also contain articles on statistical genetics, e.g. [Biostatistics](https://academic.oup.com/biostatistics).  
 
 ## Contributors
 
