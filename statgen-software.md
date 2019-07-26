@@ -5,26 +5,26 @@
 ## Command line tools
 
 ### PLINK
- - [download](https://www.cog-genomics.org/plink/2.0/): An all-in-one tool for genotype data. 
-  - QC
-  - LD calculation
-  - PCA
-  - Association testing
-  - Heritability estimation
-  - Input file formats: plink, bgen, gen, vcf
+- [download](https://www.cog-genomics.org/plink/2.0/): An all-in-one tool for genotype data. 
+- QC
+- LD calculation
+- PCA
+- Association testing
+- Heritability estimation
+- Input file formats: plink, bgen, gen, vcf
   
 ### GCTA
 - [download](https://cnsgenomics.com/software/gcta/#Overview): heritability
-  - QC
-  - PCA
-  - Heritability estimation
-  - Input file formats: binary plink files
+- QC
+- PCA
+- Heritability estimation
+- Input file formats: binary plink files
   
 ### QCTOOL
 - [download](http://www.well.ox.ac.uk/~gav/qctool_v2/): Data handling, converting file formats, combining datasets
-  - QC
-  - PCA
-  - Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
+- QC
+- PCA
+- Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
   
 ### BEDTOOLS
 - [download](https://github.com/arq5x/bedtools2)
@@ -32,8 +32,8 @@
   
 ### QUICKTEST
 - [download](https://wp.unil.ch/sgg/quicktest/)
-  - Association testing
-  - Input file formats: plink, bgen, gen, vcf
+- Association testing
+- Input file formats: plink, bgen, gen, vcf
 
 ### SNPTEST
 - [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
@@ -45,13 +45,13 @@
 
 ### emeraLD
 - [download](https://github.com/statgen/emeraLD)
-  - LD calculation
-  - Input file formats: VCF
+- LD calculation
+- Input file formats: VCF
   
 ### LDstore
 - [download](http://www.christianbenner.com/#ldstore)
-  - LD calculation
-  - Input file formats: bgen, binary plink (no vcf, meaning, reference panels in vcf format have to be transformed first into a bgen file with [QCTOOL](http://www.well.ox.ac.uk/~gav/qctool_v2/))
+- LD calculation
+- Input file formats: bgen, binary plink (no vcf, meaning, reference panels in vcf format have to be transformed first into a bgen file with [QCTOOL](http://www.well.ox.ac.uk/~gav/qctool_v2/))
 
 ### FINEMAP
 - [download](http://www.christianbenner.com/): 
