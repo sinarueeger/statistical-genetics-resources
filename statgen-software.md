@@ -1,75 +1,92 @@
 
-# Statistical Genetics Software (*in progress*)
+# Statistical Genetics Software
 
-## Categories
-
-- 🛠️ Data quality control, handling, transformation (🛠️ representing tooling)
-- 🔺 Linkage disequilibrium estimation (🔺 representing the lower triangle of the distance matrix)
-- 📷 Principal component computation (📷 as a representation of an approximation of reality)
-- ⚖️ Association tests (⚖️ representing measuring and weighing)
-- 📏 Heritability estimation (📏 representing measuring heritability)
-- 🏢🏢🏢 Meta-analysis
 
 ## Command line tools
 
-- [**PLINK**](https://www.cog-genomics.org/plink/2.0/): An all-in-one tool for genotype data. 
-  - 🛠️ QC
-  - 🔺 LD
-  - 📷 PCA
-  - ⚖️ Testing
-  - 📏 Heritability
+### PLINK
+ - [download](https://www.cog-genomics.org/plink/2.0/): An all-in-one tool for genotype data. 
+  - QC
+  - LD calculation
+  - PCA
+  - Association testing
+  - Heritability estimation
   - Input file formats: plink, bgen, gen, vcf
   
-- [**GCTA**](https://cnsgenomics.com/software/gcta/#Overview): heritability
-  - (🛠️) QC
-  - 📷 PCA
-  - 📏 Heritability
+### GCTA
+- [download](https://cnsgenomics.com/software/gcta/#Overview): heritability
+  - QC
+  - PCA
+  - Heritability estimation
   - Input file formats: binary plink files
   
-- [**QCTOOL**](http://www.well.ox.ac.uk/~gav/qctool_v2/): Data handling, converting file formats, combining datasets
-  - 🛠️ QC
-  - 📷 PCA
+### QCTOOL
+- [download](http://www.well.ox.ac.uk/~gav/qctool_v2/): Data handling, converting file formats, combining datasets
+  - QC
+  - PCA
   - Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
   
-- [**BEDTOOLS**]()
-  - [Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
+### BEDTOOLS
+- [download](https://github.com/arq5x/bedtools2)
+- [Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
   
-- [**QUICKTEST**](https://wp.unil.ch/sgg/quicktest/)
-  - ⚖️ Testing
+### QUICKTEST
+- [download](https://wp.unil.ch/sgg/quicktest/)
+  - Association testing
   - Input file formats: plink, bgen, gen, vcf
 
-- [**SNPTEST**](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
-  - ⚖️ Testing
+### SNPTEST
+- [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
+- Association testing
   
-- Imputation software
+### Genotype imptuation
+- [Sanger Imputation Service](https://imputation.sanger.ac.uk/)
+- [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
 
-- [**emeraLD**](https://github.com/statgen/emeraLD)
-  - 🔺 LD
+### emeraLD
+- [download](https://github.com/statgen/emeraLD)
+  - LD calculation
   - Input file formats: VCF
   
-- [**LDSTORE**](http://www.christianbenner.com/#ldstore)
-  - 🔺 LD
+### LDstore
+- [download](http://www.christianbenner.com/#ldstore)
+  - LD calculation
   - Input file formats: bgen, binary plink (no vcf, meaning, reference panels in vcf format have to be transformed first into a bgen file with [QCTOOL](http://www.well.ox.ac.uk/~gav/qctool_v2/))
 
-- [**Multivariate GWAMA**](https://github.com/baselmans/multivariate_GWAMA)
-  - 🏢 Meta-analysis of (unknown) overlapping samples
+### FINEMAP
+- [download](http://www.christianbenner.com/): 
+- [finemap howto](https://sinarueeger.github.io/post/finemapping-howto/)
 
-- http://dougspeed.com/sumher/ and http://dougspeed.com/ldak/ (see also http://dougspeed.com/heritability-model/)
-- [FINEMAP](http://www.christianbenner.com/): [finemap howto](https://sinarueeger.github.io/post/finemapping-howto/)
+### Multivariate GWAMA
+- [download](https://github.com/baselmans/multivariate_GWAMA)
+- Meta-analysis of (unknown) overlapping samples
 
-## Misc
+### SumHer
+- [SumHer](http://dougspeed.com/sumher/)
+  - heritability estimation
+  - uses summary statistics as input
+  - [LDAK](http://dougspeed.com/ldak/) is for individual data
+  - see also http://dougspeed.com/heritability-model/
 
+### Misc
 - https://openmendel.github.io/ (statistical genetic analysis tool in Julia)
 - https://hail.is/ (genomic data analysis tool based on Python)
 - https://ritchielab.org/software/plato-download (organising, QC and analysis of genetic data)
 
+### Abbreviations
+- QC: Data quality control, handling, transformation
+- LD: Linkage disequilibrium
+- PCA: Principal component analysis
+
 ## Webservers
 
-[FUMA GWAS](http://fuma.ctglab.nl/): Functional Mapping and Annotation of Genome-Wide Association Studies. Takes summary statistics as input. 
+- Imputation servers: [Sanger Imputation Service](https://imputation.sanger.ac.uk/) and [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
 
-[GWASpro](https://bioinfo.noble.org/GWASPRO/): *to be tested*. 
+- [FUMA GWAS](http://fuma.ctglab.nl/): Functional Mapping and Annotation of Genome-Wide Association Studies. Takes summary statistics as input. 
 
-[locuscompare](http://locuscompare.com/): comparison of EQTL and GWAS summary stats (using rsid and p-values).
+- [GWASpro](https://bioinfo.noble.org/GWASPRO/): *to be tested*. 
+
+- [locuscompare](http://locuscompare.com/): comparison of EQTL and GWAS summary stats (using rsid and p-values).
 
 ## R packages
 
@@ -95,4 +112,6 @@
 - [manhattanly](https://moderndata.plot.ly/manhattanly-r-package-for-interactive-manhattan-plots/) for interactive Manhattan plots. 
 - [qqman](https://cran.r-project.org/web/packages/qqman/index.html): for Manhattan plots (see DYI solution in [here](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html)).
 - [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
-
+- [ggman](https://github.com/mkanai/ggman): Well done Manhattan plot in a ggplot2 look.
+- [ggGWAS](https://github.com/sinarueeger/ggGWAS): quick QQplots for large summary statistics. 
+- [GWAS.utils](https://github.com/sinarueeger/GWAS.utils): helper functions for genotype data and summary statistics.
