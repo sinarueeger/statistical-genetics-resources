@@ -1,6 +1,6 @@
 # Resources for Statistical Genetics
 
-This repository lists resources needed for statistical genetics.
+This repository lists resources needed for GWAS and statistical genetics.
 
 The content is mainly aimed for people starting in the field of statistical genetics. 
 
@@ -10,8 +10,8 @@ There are three lists:
 - [Readings](statgen-reading.md), mostly research articles.
 - [Software](statgen-software.md) to perform statistical analyses on genetic data.
 - Learning material: 
-  - [H3ABioNet GWAS Lecture Series 2018](https://www.youtube.com/playlist?list=PLcQ0XMykNhCQJPz0amnbz9BPM4Bu0Nkgf)
-  - [Lectures at the Broad Institute](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), for example the one by [Hilary Finucane](https://www.youtube.com/watch?v=mivyklWDtBI)
+  - [H3ABioNet GWAS Lecture Series 2018](https://www.youtube.com/playlist?list=PLcQ0XMykNhCQJPz0amnbz9BPM4Bu0Nkgf).
+  - [Lectures at the Broad Institute](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), for example the one by [Hilary Finucane](https://www.youtube.com/watch?v=mivyklWDtBI).
   - [GINGER](https://ginger.sph.harvard.edu/): education program for participants in East and South Africa.
 
 I have started this collection while working on [my PhD thesis](https://drive.switch.ch/index.php/s/FpWZlbw4Rfq20le) and hope it can be extended continuously.
