@@ -115,3 +115,4 @@
 - [ggman](https://github.com/mkanai/ggman): Well done Manhattan plot in a ggplot2 look.
 - [ggGWAS](https://github.com/sinarueeger/ggGWAS): quick QQplots for large summary statistics. 
 - [GWAS.utils](https://github.com/sinarueeger/GWAS.utils): helper functions for genotype data and summary statistics.
+- [gaston](https://cran.r-project.org/web/packages/gaston/index.html): genetic data handeling + modelling (variety of models)
