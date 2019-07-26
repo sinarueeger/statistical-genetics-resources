@@ -46,8 +46,9 @@ Summary stats are public, while individual data can mostly only be accessed by s
 - [**1000 Genomes Project**](http://www.internationalgenome.org/): phase III contains sequencing data from 2'504 individuals, from 26 populations, for 84.4 million variants markers → public data.
 - [**UK10K**](http://www.uk10k.org/): sequencing data from 4000 individuals of European/British ancestry → restricted access. 
 - [**UK Biobank**](http://www.ukbiobank.ac.uk/): genotype and genotype imputed data for 500K individuals → restricted access.
+- [**African Genome Variation Project**](https://www.nature.com/articles/nature13997) Dense genotypes from 1'481 individuals + WGS from 320 individuals across sub-Saharan Africa → restricted access
 
-Currently, 1000 Genomes Project and UK10K data are often used as **reference panels** for imputation. 
+Currently, 1000 Genomes Project and UK10K data are often used as **reference panels** for imputation (except if an online imputation service is used, e.g. the [Sanger Imputation Service](https://imputation.sanger.ac.uk/)). 
 
 ### GWAS summary statistic results
 
