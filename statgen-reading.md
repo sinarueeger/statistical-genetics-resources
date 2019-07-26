@@ -20,7 +20,7 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 ### Summary statistics
 
-[Dissecting the genetics of complex traits using summary association statistics](https://www.ncbi.nlm.nih.gov/pubmed/27840428); Bogdan Pasaniuc, Alkes L. Price. 2017. 
+- [Dissecting the genetics of complex traits using summary association statistics](https://www.ncbi.nlm.nih.gov/pubmed/27840428); Bogdan Pasaniuc, Alkes L. Price. 2017. 
 
 
 ### GWAS examples
