@@ -97,9 +97,6 @@ Checkout the [The Leek group guide to genomics papers](https://github.com/jtleek
 
 [This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online journalclub from the Broad Institute is not active anymore, but has some nice recordings.
 
-The Broad Institute has also some [recordings](https://sites.google.com/broadinstitute.com/onlinejournalclub/other-genetic-presentations?authuser=0) from the "Medical Population Genetics Program".
-
-
 ## How to keep up with new published research?<a name="keep"></a>
 
 - Subscribe to journal newsletters (sometimes called *e-alerts*). 
