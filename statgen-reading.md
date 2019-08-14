@@ -17,6 +17,7 @@
 Julian Little, John P. A. Ioannidis and Joel N. Hirschhorn. 2008.
 - [Finding the missing heritability of complex diseases](https://www.ncbi.nlm.nih.gov/pubmed/19812666); Teri A. Manolio, Francis S. Collins, Nancy J. Cox, David B. Goldstein, Lucia A. Hindorff, David J. Hunter,
 Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
+- [A tutorial on conducting genome‐wide association studies:Quality control and statistical analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/pdf/MPR-27-na.pdf); Andries T. Marees, Hilde de Kluiver, Sven Stringer, Florence Vorspan, Emmanuel Curis, Cynthia Marie‐Claire, Eske M. Derks. 2018. 
 
 ### Summary statistics
 
