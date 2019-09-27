@@ -8,7 +8,7 @@
 ## Articles
 
 ### GWAS
-
+- [What article to reference as the first GWAS](https://twitter.com/ceclindgren/status/1175427007276097538).
 - [Thinking About the Evolution of Complex Traits in the Era of Genome-Wide Association Studies](https://www.annualreviews.org/doi/10.1146/annurev-genom-083115-022316); Guy Sella and Nicholas H. Barton. 2019.
 - A very general introduction to GWAS: [Genomewide Association Studies and Human Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422859/); John Hardy and Andrew Singleton. 2009.
 - [10 Years of GWAS Discovery: Biology, Function, and Translation](https://www.ncbi.nlm.nih.gov/pubmed/28686856); Peter M. Visscher, Naomi R. Wray, Qian Zhang, Pamela Sklar, Mark I. Mccarthy, Matthew A. Brown, and Jian Yang. 2017.
