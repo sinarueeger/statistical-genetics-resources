@@ -9,7 +9,7 @@ There are three lists:
 - Publicly available [genetic data](statgen-data.md) (raw or summarized).
 - [Readings](statgen-reading.md), mostly research articles.
 - [Software](statgen-software.md) to perform statistical analyses on genetic data.
-- [Online learning](statgen-online-learning.md) material.
+- [Learning](statgen-learning.md) material.
 
 ## Getting started
 
