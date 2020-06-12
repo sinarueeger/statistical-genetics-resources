@@ -5,61 +5,51 @@
 ## Command line tools
 
 ### PLINK
-- [download](https://www.cog-genomics.org/plink/2.0/): An all-in-one tool for genotype data. 
-- QC
-- LD calculation
-- PCA
-- Association testing
-- Heritability estimation
+- An all-in-one tool for genotype data (QC, LD, PCA, association testing, ...)
+- [download](https://www.cog-genomics.org/plink/2.0/)
 - Input file formats: plink, bgen, gen, vcf
   
 ### GCTA
-- [download](https://cnsgenomics.com/software/gcta/#Overview): heritability
-- QC
-- PCA
-- Heritability estimation
+- Mainly heritability estimation, but also QC and PCA
+- [download](https://cnsgenomics.com/software/gcta/#Overview)
 - Input file formats: binary plink files
   
 ### QCTOOL
+- Tool to wrangle processed genetic data (bgen, gen, vcf, plink)
 - [download](http://www.well.ox.ac.uk/~gav/qctool_v2/): Data handling, converting file formats, combining datasets
 - QC
 - PCA
 - Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
   
 ### BEDTOOLS
+- Tool to wrangle "raw" genetic data (bed, bam, vcf, ...)
 - [download](https://github.com/arq5x/bedtools2)
 - [Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
   
 ### QUICKTEST
-- [download](https://wp.unil.ch/sgg/quicktest/)
 - Association testing
-- Input file formats: plink, bgen, gen, vcf
+- [download](https://wp.unil.ch/sgg/quicktest/)
 
 ### SNPTEST
-- [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
 - Association testing
+- [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
   
-### Genotype imptuation
+### Genotype imputation
 - [Sanger Imputation Service](https://imputation.sanger.ac.uk/)
 - [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
 
 ### emeraLD
+- LD estimation
 - [download](https://github.com/statgen/emeraLD)
-- LD calculation
-- Input file formats: VCF
   
 ### LDstore
+- LD estimation
 - [download](http://www.christianbenner.com/#ldstore)
-- LD calculation
-- Input file formats: bgen, binary plink (no vcf, meaning, reference panels in vcf format have to be transformed first into a bgen file with [QCTOOL](http://www.well.ox.ac.uk/~gav/qctool_v2/))
 
 ### FINEMAP
+- Fine-mapping
 - [download](http://www.christianbenner.com/): 
 - [finemap howto](https://sinarueeger.github.io/post/finemapping-howto/)
-
-### Multivariate GWAMA
-- [download](https://github.com/baselmans/multivariate_GWAMA)
-- Meta-analysis of (unknown) overlapping samples
 
 ### SumHer
 - [SumHer](http://dougspeed.com/sumher/)
@@ -84,9 +74,9 @@
 
 - [FUMA GWAS](http://fuma.ctglab.nl/): Functional Mapping and Annotation of Genome-Wide Association Studies. Takes summary statistics as input. 
 
-- [GWASpro](https://bioinfo.noble.org/GWASPRO/): *to be tested*. 
-
 - [locuscompare](http://locuscompare.com/): comparison of EQTL and GWAS summary stats (using rsid and p-values).
+
+- 
 
 ## R packages
 
