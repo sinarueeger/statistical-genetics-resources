@@ -19,18 +19,10 @@ Julian Little, John P. A. Ioannidis and Joel N. Hirschhorn. 2008.
 - [Finding the missing heritability of complex diseases](https://www.ncbi.nlm.nih.gov/pubmed/19812666); Teri A. Manolio, Francis S. Collins, Nancy J. Cox, David B. Goldstein, Lucia A. Hindorff, David J. Hunter,
 Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 - [A tutorial on conducting genome‐wide association studies:Quality control and statistical analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/pdf/MPR-27-na.pdf); Andries T. Marees, Hilde de Kluiver, Sven Stringer, Florence Vorspan, Emmanuel Curis, Cynthia Marie‐Claire, Eske M. Derks. 2018. 
-- GWAS course by Matti Pirinen: [What is a GWAS?](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS1.html), [P-values in GWAS](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS2.html), [Statistical power](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS3.html), [Bayesian inference](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS4.html), [Relatedness and population structure](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS5.html), [Confounders and covariates](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS6.html), [Linkage disequilibrium (LD) and fine-mapping](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS7.html), [Heritability and mixed models](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS8.html), [Meta-analysis and summary statistics](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS9.html), [Genotype imputation](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS10.html), [Mendelian randomization](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS11.html) ([slides](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/) availble too).
 
 ### Summary statistics
 
 - [Dissecting the genetics of complex traits using summary association statistics](https://www.ncbi.nlm.nih.gov/pubmed/27840428); Bogdan Pasaniuc, Alkes L. Price. 2017. 
-
-
-### GWAS examples
-
-- [Defining the role of common variation in the genomic and biological architecture of adult human height](https://www.nature.com/articles/ng.3097); Andrew R. Wood, Tonu Esko, ..., Timothy M. Frayling. 2014.
-
-### GWAS Imputation
 
 
 ### Genetic architecture
@@ -38,10 +30,6 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 - [From gene expression to disease risk](https://www.ncbi.nlm.nih.gov/pubmed/18443581); Emmanouil T. Dermitzakis. 2008.
 - [Genetic architecture: the shape of the genetic contribution to human traits and disease.](https://www.ncbi.nlm.nih.gov/pubmed/29225335); Nicholas J. Timpson, Celia M.T. Greenwood, Nicole Soranzo, Daniel J. Lawson, and J. Brent Richards. 2017.
 - [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model.](https://www.ncbi.nlm.nih.gov/pubmed/29906445); Naomi R. Wray, Cisca Wijmenga, Patrick F. Sullivan, Jian Yang, Peter M. Visscher. 2018.
-
-### Pathway analysis
-
-- [Fast and Rigorous Computation of Gene and Pathway Scores from SNP-Based Summary Statistics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4726509/); David Lamparter, Daniel Marbach, Rico Rueedi, Zoltán Kutalik, Sven Bergmann. 2016.
 
 ### Integration of gene-expression and GWAS data 
 
@@ -65,7 +53,9 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 - [Widespread Allelic Heterogeneity in Complex Traits](https://www.ncbi.nlm.nih.gov/pubmed/28475861); Farhad Hormozdiari, Anthony Zhu, Gleb Kichaev, Chelsea J.-T. Ju, Ayellet V. Segrè, Jong Wha J. Joo, Hyejung Won, Sriram Sankararaman, Bogdan Pasaniuc, Sagiv Shifman, Eleazar Eskin. 2017.
  - [Common SNPs explain a large proportion of the heritability for human height](https://www.ncbi.nlm.nih.gov/pubmed/20562875); Jian Yang, Beben Benyamin, Brian P. McEvoy, Scott Gordon, Anjali K. Henders, *et al.*. 2010.
  
- 
+ ### Colocalization
+
+
  
 ### Mendelian randomisation
 
@@ -83,30 +73,23 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 ### Multi-trait analysis
 
-- [Distinguishing genetic correlation from causation across 52 diseases and complex traits](https://www.biorxiv.org/content/early/2018/04/17/205435); Luke J. O'Connor, Alkes L. Price. 2018.
-- <a name="ldsc"></a>[LD Score regression distinguishes confounding from polygenicity in genome-wide association studies.](https://www.ncbi.nlm.nih.gov/pubmed/25642630); Brendan K. Bulik-Sullivan, Po-Ru Loh, Hilary K. Finucane, Stephan Ripke, Jian Yang, Nick Patterson, Mark J. Daly, Alkes L. Price, Benjamin M. Neale. 2015.
+### Drug development
 
 ### Pleiotropy
 
-- [Statistical methods to detect pleiotropy in human complex traits](https://www.ncbi.nlm.nih.gov/pubmed/29093210); Sophie Hackinger and Eleftheria Zeggini. 2017.
-
-### Drug development 
-
-- [The druggable genome and support for target identification and validation in drug development](https://www.ncbi.nlm.nih.gov/pubmed/28356508); Chris Finan, Anna Gaulton, Felix A. Kruger, R. Thomas Lumbers, Tina Shah, Jorgen Engmann, Luana Galver, *et al.*. 2017.
-
 ## Other reading lists and resources
 
-Checkout the [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers).
+Checkout the [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers). This is more about genomics & RNA sequencing, but has some good [background reading](https://github.com/jtleek/genomicspapers#background-on-genomics).
 
-[This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online journalclub from the Broad Institute is not active anymore, but has some nice recordings.
+[This](https://sites.google.com/broadinstitute.com/onlinejournalclub) online journalclub from the Broad Institute is not active anymore, but has some recordings.
 
 ## How to keep up with new published research?<a name="keep"></a>
 
-- Subscribe to journal newsletters (sometimes called *e-alerts*). 
-- Create a [google scholar alert](https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en) with keywords of interest. 
+- Create a [google scholar alert](https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en) with keywords of interest. This especially handy to not miss new publications in your own field.
 - Follow journals on social media, e.g. [bioRxiv](https://twitter.com/biorxivpreprint). 
 - Follow authors or consortia on social media, e.g. [PGC Consortium](https://twitter.com/PGCgenetics). 
-- Join the mailing list of a journal club, e.g. the [this one](http://cnsgenomics.com/journal_club.html).
+- Subscribe to journal newsletters (sometimes called *e-alerts*). 
+- Join (the mailing list of) a journal club, e.g. the [this one](https://cnsgenomics.com/content/journal-club).
 
 ## Journals<a name="journals"></a>
 
