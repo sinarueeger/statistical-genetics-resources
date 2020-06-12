@@ -80,19 +80,13 @@
 
 ## R packages
 
+Packages are either hosted on CRAN or [Bioconductor](https://www.bioconductor.org/). 
+
 ### Getting started
-- A [tutorial](http://www.stat-gen.org/tut/tut_intro.html) for implementing a GWAS in R by the [Foulkes Lab](http://www.stat-gen.org/about.html).
+- A [tutorial](http://www.stat-gen.org/str/about.html) for implementing a GWAS in R by the [Foulkes Lab](http://www.stat-gen.org/about.html).
 - [Task view](https://cran.r-project.org/web/views/Genetics.html) on CRAN.
 - R-packages that deal with [genetics](https://rdrr.io/search?q=genetics) or [genomics](https://rdrr.io/search?q=genomics). 
 
-### Blogposts
-
-- [Crafting Manhattan plots](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html) by [Yan Holtz](https://github.com/holtzy/) for the [R graph gallery](https://www.r-graph-gallery.com/). 
-
-
-### rOpenSci packages
-- [biomartr](https://github.com/ropensci/biomartr) + [tutorials](https://github.com/ropensci/biomartr#tutorials).
-- [rsnps](https://github.com/ropensci/rsnps) + [tutorial](https://github.com/ropensci/rsnps/blob/master/vignettes/rsnps_vignette.Rmd).
 
 ### Bioconductor packages 
 - [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software)
@@ -103,6 +97,8 @@
 - [qqman](https://cran.r-project.org/web/packages/qqman/index.html): for Manhattan plots (see DYI solution in [here](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html)).
 - [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
 - [ggman](https://github.com/mkanai/ggman): Well done Manhattan plot in a ggplot2 look.
-- [ggGWAS](https://github.com/sinarueeger/ggGWAS): quick QQplots for large summary statistics. 
 - [GWAS.utils](https://github.com/sinarueeger/GWAS.utils): helper functions for genotype data and summary statistics.
 - [gaston](https://cran.r-project.org/web/packages/gaston/index.html): genetic data handeling + modelling (variety of models)
+
+Related to Manhattan plots: 
+- [Crafting Manhattan plots](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html) by [Yan Holtz](https://github.com/holtzy/) for the [R graph gallery](https://www.r-graph-gallery.com/). 
