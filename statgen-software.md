@@ -33,10 +33,6 @@
 ### SNPTEST
 - Association testing
 - [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
-  
-### Genotype imputation
-- [Sanger Imputation Service](https://imputation.sanger.ac.uk/)
-- [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
 
 ### emeraLD
 - LD estimation
@@ -70,13 +66,15 @@
 
 ## Webservers
 
-- Imputation servers: [Sanger Imputation Service](https://imputation.sanger.ac.uk/) and [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
+- [GWAS Atlas](https://atlas.ctglab.nl): Collection of summary statistics: browse and compare GWAS results. 
+
+- [MR Base](http://app.mrbase.org/): A platform for Mendelian randomisation using summary data from genome-wide association studies (also has an R package).
 
 - [FUMA GWAS](http://fuma.ctglab.nl/): Functional Mapping and Annotation of Genome-Wide Association Studies. Takes summary statistics as input. 
 
-- [locuscompare](http://locuscompare.com/): comparison of EQTL and GWAS summary stats (using rsid and p-values).
+- Imputation servers: [Sanger Imputation Service](https://imputation.sanger.ac.uk/) and [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
 
-- 
+- [Locuscompare](http://locuscompare.com/): comparison of EQTL and GWAS summary statistics (using rsid and p-values).
 
 ## R packages
 
