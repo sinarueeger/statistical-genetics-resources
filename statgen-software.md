@@ -5,61 +5,47 @@
 ## Command line tools
 
 ### PLINK
-- [download](https://www.cog-genomics.org/plink/2.0/): An all-in-one tool for genotype data. 
-- QC
-- LD calculation
-- PCA
-- Association testing
-- Heritability estimation
+- An all-in-one tool for genotype data (QC, LD, PCA, association testing, ...)
+- [download](https://www.cog-genomics.org/plink/2.0/)
 - Input file formats: plink, bgen, gen, vcf
   
 ### GCTA
-- [download](https://cnsgenomics.com/software/gcta/#Overview): heritability
-- QC
-- PCA
-- Heritability estimation
+- Mainly heritability estimation, but also QC and PCA
+- [download](https://cnsgenomics.com/software/gcta/#Overview)
 - Input file formats: binary plink files
   
 ### QCTOOL
+- Tool to wrangle processed genetic data (bgen, gen, vcf, plink)
 - [download](http://www.well.ox.ac.uk/~gav/qctool_v2/): Data handling, converting file formats, combining datasets
 - QC
 - PCA
 - Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
   
 ### BEDTOOLS
+- Tool to wrangle "raw" genetic data (bed, bam, vcf, ...)
 - [download](https://github.com/arq5x/bedtools2)
 - [Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
   
 ### QUICKTEST
-- [download](https://wp.unil.ch/sgg/quicktest/)
 - Association testing
-- Input file formats: plink, bgen, gen, vcf
+- [download](https://wp.unil.ch/sgg/quicktest/)
 
 ### SNPTEST
-- [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
 - Association testing
-  
-### Genotype imptuation
-- [Sanger Imputation Service](https://imputation.sanger.ac.uk/)
-- [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
+- [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
 
 ### emeraLD
+- LD estimation
 - [download](https://github.com/statgen/emeraLD)
-- LD calculation
-- Input file formats: VCF
   
 ### LDstore
+- LD estimation
 - [download](http://www.christianbenner.com/#ldstore)
-- LD calculation
-- Input file formats: bgen, binary plink (no vcf, meaning, reference panels in vcf format have to be transformed first into a bgen file with [QCTOOL](http://www.well.ox.ac.uk/~gav/qctool_v2/))
 
 ### FINEMAP
+- Fine-mapping
 - [download](http://www.christianbenner.com/): 
 - [finemap howto](https://sinarueeger.github.io/post/finemapping-howto/)
-
-### Multivariate GWAMA
-- [download](https://github.com/baselmans/multivariate_GWAMA)
-- Meta-analysis of (unknown) overlapping samples
 
 ### SumHer
 - [SumHer](http://dougspeed.com/sumher/)
@@ -80,29 +66,25 @@
 
 ## Webservers
 
-- Imputation servers: [Sanger Imputation Service](https://imputation.sanger.ac.uk/) and [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
+- [GWAS Atlas](https://atlas.ctglab.nl): Collection of summary statistics: browse and compare GWAS results. 
+
+- [MR Base](http://app.mrbase.org/): A platform for Mendelian randomisation using summary data from genome-wide association studies (also has an R package).
 
 - [FUMA GWAS](http://fuma.ctglab.nl/): Functional Mapping and Annotation of Genome-Wide Association Studies. Takes summary statistics as input. 
 
-- [GWASpro](https://bioinfo.noble.org/GWASPRO/): *to be tested*. 
+- Imputation servers: [Sanger Imputation Service](https://imputation.sanger.ac.uk/) and [Michigan Imputation Server](https://imputationserver.sph.umich.edu/index.html).
 
-- [locuscompare](http://locuscompare.com/): comparison of EQTL and GWAS summary stats (using rsid and p-values).
+- [Locuscompare](http://locuscompare.com/): comparison of EQTL and GWAS summary statistics (using rsid and p-values).
 
 ## R packages
 
+Packages are either hosted on CRAN or [Bioconductor](https://www.bioconductor.org/). 
+
 ### Getting started
-- A [tutorial](http://www.stat-gen.org/tut/tut_intro.html) for implementing a GWAS in R by the [Foulkes Lab](http://www.stat-gen.org/about.html).
+- A [tutorial](http://www.stat-gen.org/str/about.html) for implementing a GWAS in R by the [Foulkes Lab](http://www.stat-gen.org/about.html).
 - [Task view](https://cran.r-project.org/web/views/Genetics.html) on CRAN.
 - R-packages that deal with [genetics](https://rdrr.io/search?q=genetics) or [genomics](https://rdrr.io/search?q=genomics). 
 
-### Blogposts
-
-- [Crafting Manhattan plots](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html) by [Yan Holtz](https://github.com/holtzy/) for the [R graph gallery](https://www.r-graph-gallery.com/). 
-
-
-### rOpenSci packages
-- [biomartr](https://github.com/ropensci/biomartr) + [tutorials](https://github.com/ropensci/biomartr#tutorials).
-- [rsnps](https://github.com/ropensci/rsnps) + [tutorial](https://github.com/ropensci/rsnps/blob/master/vignettes/rsnps_vignette.Rmd).
 
 ### Bioconductor packages 
 - [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software)
@@ -113,6 +95,8 @@
 - [qqman](https://cran.r-project.org/web/packages/qqman/index.html): for Manhattan plots (see DYI solution in [here](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html)).
 - [rsnps](https://cran.r-project.org/web/packages/rsnps/): interface to SNP datasets. Check [vignette](https://cran.r-project.org/web/packages/rsnps/vignettes/rsnps_vignette.html).
 - [ggman](https://github.com/mkanai/ggman): Well done Manhattan plot in a ggplot2 look.
-- [ggGWAS](https://github.com/sinarueeger/ggGWAS): quick QQplots for large summary statistics. 
 - [GWAS.utils](https://github.com/sinarueeger/GWAS.utils): helper functions for genotype data and summary statistics.
 - [gaston](https://cran.r-project.org/web/packages/gaston/index.html): genetic data handeling + modelling (variety of models)
+
+Related to Manhattan plots: 
+- [Crafting Manhattan plots](https://www.r-graph-gallery.com/wp-content/uploads/2018/02/Manhattan_plot_in_R.html) by [Yan Holtz](https://github.com/holtzy/) for the [R graph gallery](https://www.r-graph-gallery.com/). 
