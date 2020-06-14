@@ -15,28 +15,16 @@
 - http://blog.kaggle.com/2017/09/11/how-can-i-find-a-dataset-on-kaggle/
 -->
 
-## Types of data
-The statistical methods use either *individual data* or an aggregated form called *summary statistics*. A-C in Figure below illustrates the difference between individual and aggregated data in terms of information loss. Most importantly, because of privacy restrictions, the LD structure between markers cannot be retrieved anymore, once the data is aggregated and published, and thus has to be estimated from external data. 
-
-### Individual data vs. summary statistics
-
-![summarystats 001](https://user-images.githubusercontent.com/4454726/41023833-d133b840-696d-11e8-9824-6abba73f24d6.png)
-
-**A.** Genotype data for *K* individuals and *M* markers. 
-
-**B.** LD structure between SNVs estimated through squared correlation. 
-
-**C<sup>1</sup>.** How to aggregate individual data: estimating per allele effect sizes, along with the standard error. Using these two summary statistics, along with sample size (*N*), *MAF* or *EAF*, we can derive other summary statistics, such as Z-statistics (*Z*) or the explained phenotypic variance (*r<sup>2</sup>*).
-
-**C<sup>2</sup>.** Aggregated data form, also called *summary statistics*, listing sample size, effect allele frequency, effect size and its standard error. 
 
 ## Data Resources
 
 Below is a list of resources of genetic data, in summarised or individual form.
 
-Summary stats are public, while individual data can mostly only be accessed by selected individuals.
+Summary association statistics are mostly public ([Open versus restricted access for summary statistics](https://medium.com/@mjdaly/is-reidentifiability-a-risk-ae62a691a7cc) by Mark Daly), while individual data can mostly only be accessed by selected individuals.
 
-### Individual data
+
+
+### Individual level data
 
 - [**HapMap Project**](https://www.sanger.ac.uk/resources/downloads/human/hapmap3.html) phase III includes sequencing data from 1'397 individuals, 11 ancestry groups → his database is [not maintained](https://www.ncbi.nlm.nih.gov/variation/news/NCBI_retiring_HapMap/) anymore. <!-- phase one 270 individuals -->
 - [**1000 Genomes Project**](http://www.internationalgenome.org/): phase III contains sequencing data from 2'504 individuals, from 26 populations, for 84.4 million variants markers → publicly available data.
@@ -56,7 +44,7 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 - [**UK Biobank results**](http://www.nealelab.is/uk-biobank): GWAS summary statistics from genotype imputed UK Biobank data, including 337'000 individuals and 2'419 phenotypes. Based on this, [**UKB phewas**](http://pheweb.sph.umich.edu:5000/) takes a variant id as input and returns the association results for the most relevant phenotypes (browser + download).
 - [**Gene Atlas** (UK Biobank GWAS results)](http://geneatlas.roslin.ed.ac.uk/): Associations of 452K UK Biobank White British individuals (browser + download full summary statistics).
 - [**Global Biobank Engine**](https://biobankengine.stanford.edu/): Aggregated summary statistics from over 750,000 individuals across three population cohorts: UK Biobank, Million Veterans Program and Biobank Japan (browser).
-- [**MR-base**](http://www.mrbase.org/): a web application that displays the result of a systematically performed MR analyses on a number of traits, using over 1000 GWAS summary statistic results. [**MR-base PheWas**](http://phewas.mrbase.org) takes a variant id as input, and returns the traits with relevant MR results as output. 
+- [**MR-base**](http://www.mrbase.org/): a web application that displays the result of a systematically performed MR analyses on a number of traits, using > 1000 GWAS summary statistic results. [**MR-base PheWas**](http://phewas.mrbase.org) takes a variant id as input, and returns the traits with relevant MR results as output. 
 [**LD-Hub**](http://ldsc.broadinstitute.org/ldhub/): a web application to look up pre-run LD score regression results (browser + download full summary statistics).
 - [**eQTL**](https://genenetwork.nl/bloodeqtlbrowser/): Cis- and trans-eQTLs results in whole blood samples, limited to FDR=0.5 (download).
 - [**GTEx**](http://www.gtexportal.org/): eQTL summary statistics from over 40 tissues (browser + download full summary statistics).
@@ -65,7 +53,7 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 
 - Looks outdated: [**PhenoScanner**](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner): lookup of curated large-scale GWAS results, takes a variant id as input.
 
-### Full GWAS summary statistics
+### Download full GWAS summary statistics
 Places to find full genome summary statistics:
 - [**GWAS Catalog**](https://www.genome.gov/gwastudies/) 
 - [GWAS Summary Statistics by ctg.cncr.nl](https://ctg.cncr.nl/software/summary_statistics)
