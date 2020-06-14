@@ -4,7 +4,7 @@ This repository lists resources needed for GWAS and statistical genetics.
 
 The content is mainly aimed for people starting in the field of statistical genetics. 
 
-There are three lists:
+There are four lists:
 
 - Publicly available [genetic data](statgen-data.md) (raw or summarized).
 - [Readings](statgen-reading.md), mostly research articles.
@@ -14,6 +14,8 @@ There are three lists:
 ## Getting started
 
 Podcast about [GWAS](https://everythinghertz.com/85) (_GWAS big teeth you have, grandmother_) by [Everything Hertz](https://everythinghertz.com/) (with [Kevin Mitchell](https://twitter.com/WiringTheBrain)).
+
+High-level [GWAS introduction](https://www.ebi.ac.uk/training/online/course/gwas-catalog-exploring-snp-trait-associations-2019/what-gwas-catalog/what-are-genome-wide) by GWAS catalogue.
 
 
 ## Contribute
