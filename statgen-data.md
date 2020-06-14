@@ -1,9 +1,9 @@
 # Genomic data resources
 
-- [Types of data](#types-of-data)
-- [Genetic insilico data](#genetic-insilico-data)
 - [Data resources](#data-resources)
-
+- [Individual level data](#individual-level-data)
+- [Summary association statistics](#summary-association-statistics)
+- [Download](#download)
 
 
 <!-- Below is a list of data resources used in statistical genetics.
@@ -20,7 +20,7 @@
 
 Below is a list of resources of genetic data, in summarised or individual form.
 
-Summary association statistics are mostly public ([Open versus restricted access for summary statistics](https://medium.com/@mjdaly/is-reidentifiability-a-risk-ae62a691a7cc) by Mark Daly), while individual data can mostly only be accessed by selected individuals.
+Summary association statistics are mostly public ([Is Reidentifiability a Risk? - Open versus restricted access for summary statistics](https://medium.com/@mjdaly/is-reidentifiability-a-risk-ae62a691a7cc) by Mark Daly), while individual data can mostly only be accessed by selected individuals.
 
 
 
@@ -36,7 +36,7 @@ Summary association statistics are mostly public ([Open versus restricted access
 
 Currently, 1000 Genomes Project and UK10K data are often used as **reference panels** for imputation (except if an online imputation service is used, e.g. the [Sanger Imputation Service](https://imputation.sanger.ac.uk/)). 
 
-### GWAS summary statistic results
+### Summary association statistics
 
 - [**GWAS Atlas**](http://atlas.ctglab.nl): Comprehensive GWAS catalogue with possibility to compare multiple GWASs (browser).
 <!--http://megastroke.org/download.html-->
@@ -53,7 +53,7 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 
 - Looks outdated: [**PhenoScanner**](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner): lookup of curated large-scale GWAS results, takes a variant id as input.
 
-### Download full GWAS summary statistics
+### Download
 Places to find full genome summary statistics:
 - [**GWAS Catalog**](https://www.genome.gov/gwastudies/) 
 - [GWAS Summary Statistics by ctg.cncr.nl](https://ctg.cncr.nl/software/summary_statistics)
