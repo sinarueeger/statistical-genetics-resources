@@ -15,7 +15,7 @@ There are four lists:
 
 Podcast about [GWAS](https://everythinghertz.com/85) (_GWAS big teeth you have, grandmother_) by [Everything Hertz](https://everythinghertz.com/) (with [Kevin Mitchell](https://twitter.com/WiringTheBrain)).
 
-High-level [GWAS introduction](https://www.ebi.ac.uk/training/online/course/gwas-catalog-exploring-snp-trait-associations-2019/what-gwas-catalog/what-are-genome-wide) by GWAS catalogue.
+High-level [GWAS introduction](https://www.ebi.ac.uk/training/online/course/gwas-catalog-exploring-snp-trait-associations-2019/what-gwas-catalog/what-are-genome-wide) by GWAS catalog.
 
 
 ## Contribute
