@@ -41,6 +41,7 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 - [**GWAS Atlas**](http://atlas.ctglab.nl): Comprehensive GWAS catalogue with possibility to compare multiple GWASs (browser).
 <!--http://megastroke.org/download.html-->
 - [**GWAS Catalog**](https://www.genome.gov/gwastudies/) provides a curated list of all GWAS results, incl [download](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
+- [**Pan UK Biobank results**](https://pan.ukbb.broadinstitute.org): Multi-ancestry analysis of 7,221 phenotypes, across 6 continental ancestry groups. 
 - [**UK Biobank results**](http://www.nealelab.is/uk-biobank): GWAS summary statistics from genotype imputed UK Biobank data, including 337'000 individuals and 2'419 phenotypes. Based on this, [**UKB phewas**](http://pheweb.sph.umich.edu:5000/) takes a variant id as input and returns the association results for the most relevant phenotypes (browser + download).
 - [**Gene Atlas** (UK Biobank GWAS results)](http://geneatlas.roslin.ed.ac.uk/): Associations of 452K UK Biobank White British individuals (browser + download full summary statistics).
 - [**Global Biobank Engine**](https://biobankengine.stanford.edu/): Aggregated summary statistics from over 750,000 individuals across three population cohorts: UK Biobank, Million Veterans Program and Biobank Japan (browser).
