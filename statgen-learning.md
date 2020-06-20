@@ -1,7 +1,7 @@
 # (Online) Learning Material
 
 
-## GWAS course
+## GWAS course by Matti Pirinen
 
 Lecture material by [*Matti Pirinen*](https://www.mv.helsinki.fi/home/mjxpirin/).
 
@@ -15,6 +15,10 @@ Lecture material by [*Matti Pirinen*](https://www.mv.helsinki.fi/home/mjxpirin/)
 - [Meta-analysis and summary statistics](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS9.html)
 - [Genotype imputation](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS10.html)
 - [Mendelian randomization](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS11.html) ([slides](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/) availble too)
+
+## GWAS course by [Abdel Abdellaoui](https://twitter.com/dr_appie)
+
+Access course material [here](https://drive.google.com/file/d/1srSMRG-M-7_23ZaXVJ-oLmm_T1sSSGxP/view).
 
 ## GWAS tutorial
 
