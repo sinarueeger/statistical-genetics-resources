@@ -26,6 +26,8 @@ A [tutorial](http://www.stat-gen.org/str/about.html) for implementing a GWAS in 
 
 ## Recordings of conferences / summer schools
 
+- [**ESHG educational sessions**](https://www.youtube.com/playlist?list=PLi2PVGG1ibsb8sVQjDtZrhj9NP_S13suV) (one highlight: [Flexible Heritability Estimation from Summary Statistics](https://youtu.be/GydunCIH_Ps) by Doug Speed).
+
 - Recordings of the [**International Common Disease Alliance Conference** 2019](http://www.icdascientificplenarylive.com/#/agenda) (about complex disease genetics, variant to function to mechanism, cohorts, etc).
 
 - Recordings of the [2019 **Summer Institute** in Social-Science Genomics (UK)](https://www.youtube.com/channel/UCtrq7AvGCEVKW3Wt8DyjUJw/videos) (lectures on heritability, MR, etc.).
