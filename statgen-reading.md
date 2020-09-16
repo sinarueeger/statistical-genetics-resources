@@ -18,6 +18,10 @@ Some key articles on:
 - [Colocalization]()
 - [Mendelian randomisation]()
 
+### Data
+
+- [Use of population isolates for mapping complex traits](https://www.nature.com/articles/35042049): Nature Reviews Genetics article by Leena Peltonen, Aarno Palotie & Kenneth Lange in 2000. Lays out the fundamental idea of using population isolates to study complex traits. 
+
 ### GWAS
 - [Genome-wide association studies, polygenic scores and social science genetics: overview and policy implications](dx.doi.org/10.2760/948992): Technical report by the Joint Research Centre (JRC), the European Commission’s science and knowledge service, by Angers Alexandre, Kagkli Dafni Maria, Koellinger Philipp, Petrillo Mauro, Querici Maddalena, Raffael Barbara and Van den Eede Guy. 
 - [What article to reference as the first GWAS](https://twitter.com/ceclindgren/status/1175427007276097538).
