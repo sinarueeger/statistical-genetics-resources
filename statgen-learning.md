@@ -1,5 +1,8 @@
 # (Online) Learning Material
 
+## STAT7306 [Statistical Analysis of Genetic Data (Brisbane, Australia)](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT7306)
+
+https://cnsgenomics.com/data/teaching/STAT7306/2019/
 
 ## GWAS course by Matti Pirinen
 
