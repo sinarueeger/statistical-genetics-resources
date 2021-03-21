@@ -4,20 +4,21 @@
 
 https://cnsgenomics.com/data/teaching/STAT7306/2019/
 
-## GWAS course by Matti Pirinen
+## [GWAS course](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/) by Matti Pirinen
 
 Lecture material by [*Matti Pirinen*](https://www.mv.helsinki.fi/home/mjxpirin/).
 
-- [What is a GWAS?](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS1.html)
-- [P-values in GWAS](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS2.html)
-- [Statistical power](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS3.html)
-- [Bayesian inference](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS4.html)
-- [Relatedness and population structure](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS5.html)
-- [Confounders and covariates](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS6.html)
-- [Linkage disequilibrium (LD) and fine-mapping](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS7.html)- [Heritability and mixed models](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS8.html)
-- [Meta-analysis and summary statistics](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS9.html)
-- [Genotype imputation](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS10.html)
-- [Mendelian randomization](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/GWAS11.html) ([slides](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/2019/material/) availble too)
+- What is a GWAS?
+- P-values in GWAS
+- Statistical power
+- Bayesian inference
+- Relatedness and population structure
+- Confounders and covariates
+- Linkage disequilibrium (LD) and fine-mapping
+- Heritability and mixed models
+- Meta-analysis and summary statistics
+- Genotype imputation
+- Mendelian randomization
 
 ## GWAS course by [Abdel Abdellaoui](https://twitter.com/dr_appie)
 
