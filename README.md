@@ -1,6 +1,6 @@
 # Resources for Statistical Genetics
 
-This repository lists resources needed for GWAS and statistical genetics.
+This repository lists resources needed for [GWAS](https://www.ebi.ac.uk/training/online/course/gwas-catalog-exploring-snp-trait-associations-2019/what-gwas-catalog/what-are-genome-wide) and statistical genetics.
 
 The content is mainly aimed for people starting in the field of statistical genetics. 
 
