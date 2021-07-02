@@ -38,6 +38,8 @@ Currently, 1000 Genomes Project and UK10K data are often used as **reference pan
 
 ### Summary association statistics
 
+- [**GENEBASS**](https://genebass.org/gene/ENSG00000119737?burdenSet=pLoF&phewasOpts=1&resultLayout=full):Exome-based association statistics, based on  3,817 phenotypes with gene-based and single-variant testing across 281,852 individuals with exome sequence data from the UK Biobank. 
+- [**Open Targets Genetics**](https://genetics.opentargets.org)
 - [**GWAS Atlas**](http://atlas.ctglab.nl): Comprehensive GWAS catalogue with possibility to compare multiple GWASs (browser).
 <!--http://megastroke.org/download.html-->
 - [**GWAS Catalog**](https://www.genome.gov/gwastudies/) provides a curated list of all GWAS results, incl [download](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
