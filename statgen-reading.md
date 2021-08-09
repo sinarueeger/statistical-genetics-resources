@@ -38,6 +38,9 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 ### Summary statistics
 
 - [Dissecting the genetics of complex traits using summary association statistics](https://www.ncbi.nlm.nih.gov/pubmed/27840428); Bogdan Pasaniuc, Alkes L. Price. 2017. 
+- [Is Reidentifiability a Risk? Open versus restricted access for summary statistics](https://medium.com/@mjdaly?p=ae62a691a7cc): Mark J. Daly, 2017.
+
+
 
 
 ### Genetic architecture
