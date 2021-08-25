@@ -36,7 +36,7 @@ A [tutorial](http://www.stat-gen.org/str/about.html) for implementing a GWAS in 
 
 - Recordings of the [2019 **Summer Institute** in Social-Science Genomics (UK)](https://www.youtube.com/channel/UCtrq7AvGCEVKW3Wt8DyjUJw/videos) (lectures on heritability, MR, etc.).
 
-- [**Computational Genomics Winter Institute**](https://www.youtube.com/user/ZarlabUCLA) at UCLA (Zarlab).
+- [**Computational Genomics Winter Institute**](https://www.youtube.com/user/ZarlabUCLA) at UCLA (Zarlab), especially [A Short Tutorial on Linear Mixed Model Association Testing in Genetics](https://www.youtube.com/watch?v=pTAXVTA0YQQ) by Noah Zaitlen.
 
 - [**Lectures** at the Broad Institute](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS), for example the one by [Hilary Finucane](https://www.youtube.com/watch?v=mivyklWDtBI).
 
