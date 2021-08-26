@@ -54,6 +54,14 @@
   - [LDAK](http://dougspeed.com/ldak/) is for individual data
   - see also http://dougspeed.com/heritability-model/
 
+### Regression models
+- [GEMMA](https://github.com/genetics-statistics/GEMMA): fits linear mixed effects model
+- [BOLT-LMM](https://alkesgroup.broadinstitute.org/BOLT-LMM/BOLT-LMM_manual.html): fits linear mixed effects model
+- [FaST-LMM](https://fastlmm.github.io/): fits linear mixed effects model
+- [Saige](https://github.com/weizhouUMICH/SAIGE): fits generalized mixed model, imbalanced case-control outcome, rare variants 
+- [Regenie](https://rgcgithub.github.io/regenie/install/): fits generalized mixed model, fast, imbalanced case-control outcome, rare variants 
+- Understand Mixed Effect Models: Watch [A Short Tutorial on Linear Mixed Model Association Testing in Genetics](https://www.youtube.com/watch?v=pTAXVTA0YQQ) by Noah Zaitlen during a Winter School. 
+
 ### Misc
 - https://openmendel.github.io/ (statistical genetic analysis tool in Julia)
 - https://hail.is/ (genomic data analysis tool based on Python)
