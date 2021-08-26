@@ -3,7 +3,7 @@
 
 ## Regression models
 
-- Understand Mixed Effect Models: Watch [A Short Tutorial on Linear Mixed Model Association Testing in Genetics](https://www.youtube.com/watch?v=pTAXVTA0YQQ) by Noah Zaitlen during a Winter School. 
+Understand Mixed Effect Models: Watch [A Short Tutorial on Linear Mixed Model Association Testing in Genetics](https://www.youtube.com/watch?v=pTAXVTA0YQQ) by Noah Zaitlen during a Winter School. 
 
 ### Linear mixed effect model
 - [GEMMA](https://github.com/genetics-statistics/GEMMA)
