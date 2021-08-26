@@ -1,73 +1,77 @@
 
 # Statistical Genetics Software
 
+## Regression models
 
-## Command line tools
+- Understand Mixed Effect Models: Watch [A Short Tutorial on Linear Mixed Model Association Testing in Genetics](https://www.youtube.com/watch?v=pTAXVTA0YQQ) by Noah Zaitlen during a Winter School. 
 
-### PLINK
+### Linear mixed effect model
+- [GEMMA](https://github.com/genetics-statistics/GEMMA)
+- [BOLT-LMM](https://alkesgroup.broadinstitute.org/BOLT-LMM/BOLT-LMM_manual.html)
+- [FaST-LMM](https://fastlmm.github.io/)
+
+### Generalized mixed effect model
+- [Saige](https://github.com/weizhouUMICH/SAIGE): fits generalized mixed model, imbalanced case-control outcome, rare variants 
+- [Regenie](https://rgcgithub.github.io/regenie/install/): fits generalized mixed model, fast, imbalanced case-control outcome, rare variants 
+
+
+## PLINK
 - An all-in-one tool for genotype data (QC, LD, PCA, association testing, ...)
 - [download](https://www.cog-genomics.org/plink/2.0/)
 - Input file formats: plink, bgen, gen, vcf
   
-### GCTA
+## GCTA
 - Mainly heritability estimation, but also QC and PCA
 - [download](https://cnsgenomics.com/software/gcta/#Overview)
 - Input file formats: binary plink files
   
-### QCTOOL
+## QCTOOL
 - Tool to wrangle processed genetic data (bgen, gen, vcf, plink)
 - [download](http://www.well.ox.ac.uk/~gav/qctool_v2/): Data handling, converting file formats, combining datasets
 - QC
 - PCA
 - Input file formats: many (vcf, gen, bgen, plink, ...) [check here](http://www.well.ox.ac.uk/~gav/qctool/documentation/genotype_file_formats.html)
   
-### BEDTOOLS
+## BEDTOOLS
 - Tool to wrangle "raw" genetic data (bed, bam, vcf, ...)
 - [download](https://github.com/arq5x/bedtools2)
 - [Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
   
-### QUICKTEST
+## QUICKTEST
 - Association testing
 - [download](https://wp.unil.ch/sgg/quicktest/)
 
-### SNPTEST
+## SNPTEST
 - Association testing
 - [download](https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html)
 
-### emeraLD
+## emeraLD
 - LD estimation
 - [download](https://github.com/statgen/emeraLD)
   
-### LDstore
+## LDstore
 - LD estimation
 - [download](http://www.christianbenner.com/#ldstore)
 
-### FINEMAP
+## FINEMAP
 - Fine-mapping
 - [download](http://www.christianbenner.com/): 
 - [finemap howto](https://sinarueeger.github.io/post/finemapping-howto/)
 
-### SumHer
+## SumHer
 - [SumHer](http://dougspeed.com/sumher/)
   - heritability estimation
   - uses summary statistics as input
   - [LDAK](http://dougspeed.com/ldak/) is for individual data
   - see also http://dougspeed.com/heritability-model/
 
-### Regression models
-- [GEMMA](https://github.com/genetics-statistics/GEMMA): fits linear mixed effects model
-- [BOLT-LMM](https://alkesgroup.broadinstitute.org/BOLT-LMM/BOLT-LMM_manual.html): fits linear mixed effects model
-- [FaST-LMM](https://fastlmm.github.io/): fits linear mixed effects model
-- [Saige](https://github.com/weizhouUMICH/SAIGE): fits generalized mixed model, imbalanced case-control outcome, rare variants 
-- [Regenie](https://rgcgithub.github.io/regenie/install/): fits generalized mixed model, fast, imbalanced case-control outcome, rare variants 
-- Understand Mixed Effect Models: Watch [A Short Tutorial on Linear Mixed Model Association Testing in Genetics](https://www.youtube.com/watch?v=pTAXVTA0YQQ) by Noah Zaitlen during a Winter School. 
 
-### Misc
+## Misc
 - https://openmendel.github.io/ (statistical genetic analysis tool in Julia)
 - https://hail.is/ (genomic data analysis tool based on Python)
 - https://ritchielab.org/software/plato-download (organising, QC and analysis of genetic data)
 
-### Abbreviations
+## Abbreviations
 - QC: Data quality control, handling, transformation
 - LD: Linkage disequilibrium
 - PCA: Principal component analysis
