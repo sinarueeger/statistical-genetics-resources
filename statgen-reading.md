@@ -23,6 +23,7 @@ Some key articles on:
 - [Use of population isolates for mapping complex traits](https://www.nature.com/articles/35042049): Nature Reviews Genetics article by Leena Peltonen, Aarno Palotie & Kenneth Lange in 2000. Lays out the fundamental idea of using population isolates to study complex traits. 
 
 ### GWAS
+- [Genome-wide association studies](https://www.nature.com/articles/s43586-021-00056-9): An article in *Nature Reviews Methods Primer* by Uffelmann, E., Huang, Q.Q., Munung, N.S. et al.
 - [Genome-wide association studies, polygenic scores and social science genetics: overview and policy implications](dx.doi.org/10.2760/948992): Technical report by the Joint Research Centre (JRC), the European Commission’s science and knowledge service, by Angers Alexandre, Kagkli Dafni Maria, Koellinger Philipp, Petrillo Mauro, Querici Maddalena, Raffael Barbara and Van den Eede Guy. 
 - [What article to reference as the first GWAS](https://twitter.com/ceclindgren/status/1175427007276097538).
 - [Thinking About the Evolution of Complex Traits in the Era of Genome-Wide Association Studies](https://www.annualreviews.org/doi/10.1146/annurev-genom-083115-022316); Guy Sella and Nicholas H. Barton. 2019.
