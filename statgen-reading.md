@@ -56,6 +56,7 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 - [Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets](https://www.nature.com/articles/ng.3538); Zhihong Zhu, Futao Zhang, Han Hu, Andrew Bakshi, Matthew R Robinson, Joseph E Powell, Grant W Montgomery, Michael E Goddard, Naomi R Wray, Peter M Visscher & Jian Yang. 2016.
 - [Integrating Gene Expression with Summary Association Statistics to Identify Genes Associated with 30 Complex Traits](https://www.cell.com/ajhg/fulltext/S0002-9297(17)30032-0); Nicholas Mancuso, Huwenbo Shi, Pagé Goddard, Gleb Kichaev, Alexander Gusev, Bogdan Pasaniuc. 2017. 
+- [trans-eQTL blogpost by Greg Gibson (2021)](http://genomestake.blogspot.com/2021/09/ninety-third-take-trans-eqtl-finally.html).
 
 ### Heritability
 
