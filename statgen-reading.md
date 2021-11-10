@@ -12,11 +12,13 @@ Some key articles on:
 - [General GWAS](#gwas)
 - [Summary statistics](#summary-statistics)
 - [Genetic architecture](#genetic-architecture)
-- [Integration of gene-expression and GWAS data]()
-- [Heritability]()
-- [Fine-mapping]()
-- [Colocalization]()
-- [Mendelian randomisation]()
+- [Integration of omics](#integration-of-omics)
+- [Heritability](#heritability)
+- [Fine-mapping](#fine-mapping)
+- [Colocalisation](#colocalisation)
+- [Drug targets](#drug-targets)
+- [Mendelian randomisation](#mendelian-randomisation)
+- [Pleiotropy](#pleiotropy)
 
 ### Data
 
@@ -50,12 +52,14 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 - [Genetic architecture: the shape of the genetic contribution to human traits and disease.](https://www.ncbi.nlm.nih.gov/pubmed/29225335); Nicholas J. Timpson, Celia M.T. Greenwood, Nicole Soranzo, Daniel J. Lawson, and J. Brent Richards. 2017.
 - [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model.](https://www.ncbi.nlm.nih.gov/pubmed/29906445); Naomi R. Wray, Cisca Wijmenga, Patrick F. Sullivan, Jian Yang, Peter M. Visscher. 2018.
 
-### Integration of gene-expression and GWAS data 
+### Integration of omics data
 
 - [Is PRNP associated to any human traits besides prion disease?](http://www.cureffi.org/2019/12/04/prnp-gwas-other-traits/); Eric Minikel. 2019.
 
 - [Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets](https://www.nature.com/articles/ng.3538); Zhihong Zhu, Futao Zhang, Han Hu, Andrew Bakshi, Matthew R Robinson, Joseph E Powell, Grant W Montgomery, Michael E Goddard, Naomi R Wray, Peter M Visscher & Jian Yang. 2016.
+
 - [Integrating Gene Expression with Summary Association Statistics to Identify Genes Associated with 30 Complex Traits](https://www.cell.com/ajhg/fulltext/S0002-9297(17)30032-0); Nicholas Mancuso, Huwenbo Shi, Pagé Goddard, Gleb Kichaev, Alexander Gusev, Bogdan Pasaniuc. 2017. 
+
 - [trans-eQTL blogpost by Greg Gibson (2021)](http://genomestake.blogspot.com/2021/09/ninety-third-take-trans-eqtl-finally.html).
 
 ### Heritability
@@ -70,11 +74,16 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 - [Widespread Allelic Heterogeneity in Complex Traits](https://www.ncbi.nlm.nih.gov/pubmed/28475861); Farhad Hormozdiari, Anthony Zhu, Gleb Kichaev, Chelsea J.-T. Ju, Ayellet V. Segrè, Jong Wha J. Joo, Hyejung Won, Sriram Sankararaman, Bogdan Pasaniuc, Sagiv Shifman, Eleazar Eskin. 2017.
 
+- [Abundant associations with gene expression complicate GWAS follow-up](https://www.nature.com/articles/s41588-019-0404-0?proof=tr), Liu, B., Gloudemans, M.J., Rao, A.S. et al. (2019). *Why fine-mapping is essential especially for (e)QTLs. *
+ 
 ### Colocalization
 
 - [Colocalization of GWAS and eQTL Signals Detects Target Genes](https://www.cell.com/ajhg/fulltext/S0002-9297(16)30439-6); Farhad Hormozdiari, Martijn van de Bunt, Ayellet V. Segrè, Xiao Li, Jong Wha J. Joo, Michael Bilow, Jae Hoon Sul, Sriram Sankararaman, Bogdan Pasaniuc, Eleazar Eskin. 2016.
- 
+- [A more accurate method for colocalisation analysis allowing for multiple causal variants](dx.doi.org/10.1371/journal.pgen.1009440) Wallace C (2021). *Latest coloc extension*
+
 ### Mendelian randomisation
+
+- [Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression](https://doi.org/10.1093/ije/dyv080); Jack Bowden, George Davey Smith, Stephen Burgess. 2015. *MR-Egger Regression and how it deals with pleiotropy and invalid IV.*
 
 - [Mendelian randomization: genetic anchors for causal inference in epidemiological studies](https://doi.org/10.1093/hmg/ddu328); George Davey Smith, Gibran Hemani. 2014. *Overview of MR and its extensions.*
 
@@ -82,13 +91,14 @@ Mark I. McCarthy, Erin M. Ramos, *et al.*. 2009.
 
 - [Recent Developments in Mendelian Randomization Studies](https://doi.org/10.1007/s40471-017-0128-6); Jie Zheng, Denis Baird, Maria-Carolina Borges, Jack Bowden, Gibran Hemani, Philip Haycock, David M. Evans, George Davey Smith. 2017. *A very well rounded review on MR, more detailed than the first listed article, recent (late 2017) and discusses applications, limitations, and different extensions of MR.*
 
-- [Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression](https://doi.org/10.1093/ije/dyv080); Jack Bowden, George Davey Smith, Stephen Burgess. 2015. *MR-Egger Regression and how it deals with pleiotropy and invalid IV.*
 
-### Multi-trait analysis
-
-### Drug development
 
 ### Pleiotropy
+[HOPS: a quantitative score reveals pervasive horizontal pleiotropy in human genetic variation is driven by extreme polygenicity of human traits and diseases](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1844-7), Jordan, D.M., Verbanck, M. & Do, R (2019). *Good illustration of difference between pleiotropy types.*
+
+### Misc
+- [An Abundance of Rare Functional Variants in 202 Drug Target Genes Sequenced in 14,002 People](https://www.science.org/doi/10.1126/science.1217876), Nelson et al. (2012). 
+
 
 ## Other reading lists and resources
 
