@@ -16,7 +16,6 @@ Some key articles on:
 - [Heritability](#heritability)
 - [Fine-mapping](#fine-mapping)
 - [Colocalisation](#colocalisation)
-- [Drug targets](#drug-targets)
 - [Mendelian randomisation](#mendelian-randomisation)
 - [Pleiotropy](#pleiotropy)
 
