@@ -1,5 +1,9 @@
 # (Online) Learning Material
 
+## Introduction to genomics for engineers
+
+https://learngenomics.dev/
+
 ## STAT7306 [Statistical Analysis of Genetic Data (Brisbane, Australia)](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT7306)
 
 https://cnsgenomics.com/data/teaching/STAT7306/2019/
